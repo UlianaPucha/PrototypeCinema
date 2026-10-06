@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#09090d">
+    <title>Фильм — Сеанс</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body class="page-film">
+    <a class="skip" href="#app">К карточке фильма</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="wordmark" href="index.html"><span class="wordmark-dot" aria-hidden="true"></span>Сеанс</a>
+        <nav class="site-nav" aria-label="Разделы">
+          <a href="index.html#pick">Подбор</a>
+          <a href="index.html#catalog-section">Каталог</a>
+        </nav>
+      </div>
+    </header>
+    <main id="app"></main>
+    <footer class="site-footer">
+      <p>Десять фильмов из локального каталога. Оценки собраны 24 сентября 2026.</p>
+    </footer>
+    <p id="live" class="visually-hidden" aria-live="polite"></p>
+    <noscript>
+      <p class="noscript">Карточка фильма собирается скриптом. Включите JavaScript и откройте страницу снова.</p>
+    </noscript>
+    <script src="js/movies-data.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/film.js"></script>
+  </body>
+</html>

@@ -1,0 +1,4176 @@
+{
+  "schema_version": "1.0.0",
+  "collected_on": "24092026",
+  "movies": [
+    {
+      "identification": {
+        "kinopoisk_id": 6553389,
+        "kinopoisk_url": "https://www.kinopoisk.ru/film/6553389/",
+        "imdb_id": "tt31688586",
+        "imdb_url": "https://www.imdb.com/title/tt31688586/",
+        "title_ru": "Новая волна",
+        "title_original": "Nouvelle Vague",
+        "alternative_titles": [
+          "New Wave"
+        ],
+        "year": 2025,
+        "film_type": "игровой полнометражный фильм"
+      },
+      "details": {
+        "countries": [
+          "Франция",
+          "США"
+        ],
+        "languages": [
+          "французский",
+          "английский",
+          "итальянский"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "биографический"
+        ],
+        "runtime_minutes": 105,
+        "age_ratings": [
+          {
+            "country": "Россия",
+            "rating": "18+",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ],
+        "color": "чёрно-белый",
+        "aspect_ratio": "1.37:1"
+      },
+      "creators": {
+        "directors": [
+          "Ричард Линклейтер"
+        ],
+        "screenwriters": [
+          "Холли Гент",
+          "Винсент Палмо-мл.",
+          "Летиция Массон",
+          "Мишель Альберштадт"
+        ],
+        "producers": [
+          "Лоран Петен",
+          "Мишель Петен",
+          "Майк Близзард"
+        ],
+        "cinematographers": [
+          "Давид Шамбий"
+        ],
+        "composers": null,
+        "editors": [
+          "Катрин Шварц"
+        ],
+        "production_companies": [
+          "ARP Sélection",
+          "Detour Filmproduction"
+        ],
+        "source_material": null
+      },
+      "cast": [
+        {
+          "name_ru": "Гийом Марбек",
+          "name_original": "Guillaume Marbeck",
+          "role": "Жан-Люк Годар",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "primary"
+          ]
+        },
+        {
+          "name_ru": "Зои Дойч",
+          "name_original": "Zoey Deutch",
+          "role": "Джин Сиберг",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "primary"
+          ]
+        },
+        {
+          "name_ru": "Обри Дюллен",
+          "name_original": "Aubry Dullin",
+          "role": "Жан-Поль Бельмондо",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "primary"
+          ]
+        },
+        {
+          "name_ru": "Адриен Руйяр",
+          "name_original": "Adrien Rouyard",
+          "role": "Франсуа Трюффо",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "primary"
+          ]
+        },
+        {
+          "name_ru": "Антуан Бессон",
+          "name_original": "Antoine Besson",
+          "role": "Клод Шаброль",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "primary"
+          ]
+        }
+      ],
+      "content": {
+        "logline": "Молодой Жан-Люк Годар снимает свой первый полнометражный фильм и проверяет на практике, какие правила кино можно нарушить.",
+        "synopsis": "Париж, конец пятидесятых. Кинокритик Жан-Люк Годар собирается перейти от разговоров о кино к собственному полнометражному дебюту. Его друзья уже снимают, а он намерен доказать, что фильм можно создать по другим правилам: быстрее, свободнее и прямо на городских улицах. Для будущей картины «На последнем дыхании» сходятся американская актриса Джин Сиберг, начинающий Жан-Поль Бельмондо и небольшая команда, которой приходится привыкать к неожиданным решениям режиссёра. Подготовка постоянно перетекает в импровизацию, рабочие споры — в беседы об искусстве, а повседневный Париж становится съёмочной площадкой. История следит за людьми, ещё не знающими, какое место их работа займёт в истории кинематографа. На первом плане здесь удовольствие от совместного поиска, молодая самоуверенность и непростой процесс превращения дерзкой идеи в реальный фильм.",
+        "themes": [
+          "свобода творчества",
+          "кинематограф и его история",
+          "дружба и сотрудничество",
+          "молодость и амбиции"
+        ],
+        "mood": "Лёгкое, увлечённое и ироничное; за игровым тоном чувствуется тревога дебюта.",
+        "visual_style": "Чёрно-белое изображение и почти квадратный кадр воспроизводят зрительское ощущение французского кино рубежа пятидесятых и шестидесятых; улицы и разговоры важнее зрелищных декораций."
+      },
+      "context": {
+        "text": "Ричард Линклейтер обратился к съёмкам «На последнем дыхании», дебюта Жан-Люка Годара, ставшего одним из символов французской новой волны. Фильм представили в конкурсе Каннского фестиваля в 2025 году. В работе над сценарием участвовали американские и французские авторы, а центральных исторических персонажей сыграли Гийом Марбек, Зои Дойч и Обри Дюллен. Чёрно-белая форма связывает реконструкцию с экранной культурой изображаемой эпохи. Редакционная интерпретация: картину удобно рассматривать как разговор одного режиссёра с другим о праве искать собственный метод. Её культурный контекст — переход от критики и киноклубной увлечённости к практике независимого производства, в которой ограничения бюджета, случайность и личные связи становились частью художественного языка.",
+        "facts": [
+          {
+            "text": "Фильм посвящён созданию «На последнем дыхании», а не всей биографии Годара.",
+            "source_ids": [
+              "primary",
+              "unifrance"
+            ]
+          },
+          {
+            "text": "Мировая премьера прошла в Каннах в мае 2025 года.",
+            "source_ids": [
+              "primary",
+              "kp"
+            ]
+          },
+          {
+            "text": "За «Новую волну» Ричард Линклейтер получил «Сезар» за режиссуру в 2026 году.",
+            "source_ids": [
+              "cesar"
+            ]
+          }
+        ]
+      },
+      "release": {
+        "world_premiere": {
+          "date": "17052025",
+          "year": 2025,
+          "event": "Каннский кинофестиваль",
+          "release_type": "festival_premiere",
+          "source_ids": [
+            "primary",
+            "kp"
+          ]
+        },
+        "russian_premiere": {
+          "date": "06112025",
+          "year": 2025,
+          "event": "Российский кинопрокат",
+          "release_type": "theatrical_release",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "additional_releases": []
+      },
+      "recognition": {
+        "awards": [
+          {
+            "year": 2026,
+            "event": "Сезар",
+            "category": "Лучшая режиссура",
+            "recipient": "Ричард Линклейтер",
+            "result": "win",
+            "source_ids": [
+              "cesar"
+            ]
+          },
+          {
+            "year": 2026,
+            "event": "Сезар",
+            "category": "Лучшая операторская работа",
+            "recipient": "Давид Шамбий",
+            "result": "win",
+            "source_ids": [
+              "cesar"
+            ]
+          },
+          {
+            "year": 2026,
+            "event": "Сезар",
+            "category": "Лучший монтаж",
+            "recipient": "Катрин Шварц",
+            "result": "win",
+            "source_ids": [
+              "cesar"
+            ]
+          },
+          {
+            "year": 2026,
+            "event": "Сезар",
+            "category": "Лучшие костюмы",
+            "recipient": "Паскалин Шаванн",
+            "result": "win",
+            "source_ids": [
+              "cesar"
+            ]
+          }
+        ]
+      },
+      "finances": {
+        "budget": {
+          "amount": 9900000,
+          "currency": "USD",
+          "estimated": true,
+          "source_ids": [
+            "catalog"
+          ]
+        },
+        "worldwide_gross": {
+          "amount": 2506094,
+          "currency": "USD",
+          "estimated": false,
+          "source_ids": [
+            "kp"
+          ],
+          "coverage_note": "Полнота учёта стран и повторных выпусков не установлена."
+        }
+      },
+      "ratings": {
+        "kinopoisk": {
+          "value": 7.6,
+          "scale": 10,
+          "votes": 14259,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "imdb": {
+          "value": 7.3,
+          "scale": 10,
+          "votes": 12000,
+          "votes_approximate": true,
+          "checked_on": "24092026",
+          "source_ids": [
+            "imdb"
+          ]
+        }
+      },
+      "links": {
+        "official_trailer": {
+          "url": "https://en.unifrance.org/movie/59185/nouvelle-vague",
+          "link_type": "trailer_page",
+          "language": "Оригинальная звуковая дорожка / субтитры по странице",
+          "source_ids": [
+            "unifrance"
+          ]
+        }
+      },
+      "poster": {
+        "path": "posters/6553389.jpg",
+        "source_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/10812607/6bb774b9-fa12-48c3-a86a-6759d03cae92/orig",
+        "source_page": "https://www.kinopoisk.ru/film/6553389/",
+        "language": "ru",
+        "format": "jpeg",
+        "width": 800,
+        "height": 1200,
+        "bytes": 372486,
+        "sha256": "862cbeb1d28c65d8c041bac1c5cb3883fa0e2723344f13717b0af12fbb338fb7"
+      },
+      "sources": [
+        {
+          "id": "kp",
+          "url": "https://www.kinopoisk.ru/film/6553389/",
+          "title": "Кинопоиск: карточка фильма",
+          "sections": [
+            "identification",
+            "details",
+            "creators",
+            "release",
+            "recognition",
+            "finances",
+            "ratings",
+            "poster"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "imdb",
+          "url": "https://www.imdb.com/title/tt31688586/",
+          "title": "IMDb: карточка фильма",
+          "sections": [
+            "identification",
+            "cast",
+            "details",
+            "ratings",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "primary",
+          "url": "https://www.festival-cannes.com/en/f/nouvelle-vague-2/",
+          "title": "Каннский фестиваль: Nouvelle Vague",
+          "sections": [
+            "details",
+            "creators",
+            "cast",
+            "content",
+            "context",
+            "links"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "catalog",
+          "url": "https://en.wikipedia.org/wiki/Nouvelle_Vague_(2025_film)",
+          "title": "Wikipedia: сводная фильмография и ссылки на первоисточники",
+          "sections": [
+            "creators",
+            "cast",
+            "context",
+            "release",
+            "recognition",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "unifrance",
+          "url": "https://en.unifrance.org/movie/59185/nouvelle-vague",
+          "title": "Unifrance: Nouvelle Vague",
+          "sections": [
+            "context",
+            "links",
+            "creators"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "cesar",
+          "url": "https://www.academie-cinema.org/wp-content/uploads/2026/01/palmares-cesar-2026.pdf",
+          "title": "Академия Сезар: лауреаты 2026 года",
+          "sections": [
+            "recognition"
+          ],
+          "accessed_on": "24092026"
+        }
+      ],
+      "completeness": {
+        "missing": [
+          {
+            "field": "creators.composers",
+            "status": "not_found",
+            "reason": "Композитор оригинальной музыки не установлен по доступным титрам.",
+            "source_ids": [
+              "primary",
+              "imdb"
+            ]
+          },
+          {
+            "field": "creators.source_material",
+            "status": "not_found",
+            "reason": "Литературный первоисточник не установлен.",
+            "source_ids": [
+              "primary",
+              "kp"
+            ]
+          }
+        ],
+        "discrepancies": [
+          {
+            "field": "details.countries",
+            "note": "Кинопоиск: Франция и США; Unifrance: Франция.",
+            "source_ids": [
+              "kp",
+              "unifrance"
+            ]
+          },
+          {
+            "field": "details.runtime_minutes",
+            "note": "Канны и Кинопоиск: 105 минут; IMDb: 106. Отдельная монтажная версия не подтверждена.",
+            "source_ids": [
+              "primary",
+              "kp",
+              "imdb"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "identification": {
+        "kinopoisk_id": 1040690,
+        "kinopoisk_url": "https://www.kinopoisk.ru/film/1040690/",
+        "imdb_id": "tt5613484",
+        "imdb_url": "https://www.imdb.com/title/tt5613484/",
+        "title_ru": "Середина 90-х",
+        "title_original": "Mid90s",
+        "alternative_titles": [
+          "mid90s"
+        ],
+        "year": 2018,
+        "film_type": "игровой полнометражный фильм"
+      },
+      "details": {
+        "countries": [
+          "США"
+        ],
+        "languages": [
+          "английский"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "runtime_minutes": 85,
+        "age_ratings": [
+          {
+            "country": "Россия",
+            "rating": "18+",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ],
+        "color": "цветной",
+        "aspect_ratio": "1.33:1"
+      },
+      "creators": {
+        "directors": [
+          "Джона Хилл"
+        ],
+        "screenwriters": [
+          "Джона Хилл"
+        ],
+        "producers": [
+          "Скотт Рудин",
+          "Элай Буш",
+          "Кен Као",
+          "Джона Хилл",
+          "Лайла Якуб"
+        ],
+        "cinematographers": [
+          "Кристофер Бловелт"
+        ],
+        "composers": [
+          "Трент Резнор",
+          "Аттикус Росс"
+        ],
+        "editors": [
+          "Ник Хой"
+        ],
+        "production_companies": [
+          "A24",
+          "Waypoint Entertainment",
+          "Scott Rudin Productions"
+        ],
+        "source_material": null
+      },
+      "cast": [
+        {
+          "name_ru": "Санни Сулджик",
+          "name_original": "Sunny Suljic",
+          "role": "Стиви",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Кэтрин Уотерстон",
+          "name_original": "Katherine Waterston",
+          "role": "Дэбни, мать Стиви",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Лукас Хеджес",
+          "name_original": "Lucas Hedges",
+          "role": "Иэн, старший брат Стиви",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "На-Кел Смит",
+          "name_original": "Na-Kel Smith",
+          "role": "Рэй",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Олан Пренатт",
+          "name_original": "Olan Prenatt",
+          "role": "Факшит (Fuckshit)",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        }
+      ],
+      "content": {
+        "logline": "Подросток из Лос-Анджелеса находит компанию скейтбордистов и пытается понять, сколько стоит принадлежность к новой семье.",
+        "synopsis": "Лос-Анджелес середины девяностых. Тринадцатилетний Стиви живёт с матерью и старшим братом, отношения с которым давно стали источником постоянного напряжения. Однажды он замечает компанию ребят у скейтшопа и начинает возвращаться туда снова и снова. Скейтборд пока плохо ему подчиняется, зато рядом появляется мир, где можно получить прозвище, заслужить уважение и провести целый день вне дома. Старшие друзья знакомят его с музыкой, городскими маршрутами и негласными правилами своей компании. Желание стать своим заставляет Стиви соглашаться на вещи, к которым он ещё не готов. Фильм наблюдает за обычными разговорами, первыми успехами и болезненными попытками произвести впечатление. За свободой уличного лета постепенно проступают разные представления о дружбе, заботе и взрослении.",
+        "themes": [
+          "взросление",
+          "найденная семья",
+          "скейт-культура",
+          "потребность в принятии"
+        ],
+        "mood": "Тёплое и ностальгическое, временами неловкое и болезненное; без идеализации подростковой среды.",
+        "visual_style": "Зернистое изображение Super 16 и формат 4:3 сближают фильм с домашними записями и скейт-видео; камера держится рядом с героями."
+      },
+      "context": {
+        "text": "«Середина 90-х» стала полнометражным режиссёрским дебютом Джоны Хилла, который также написал сценарий. Картина связана с американской скейт-культурой и музыкальной средой девяностых; среди исполнителей есть действующие скейтбордисты. Съёмка на Super 16 в формате 4:3 подчёркивает выбранную эпоху, а оригинальную музыку создали Трент Резнор и Аттикус Росс. Премьера состоялась на фестивале в Торонто в 2018 году. Редакционная интерпретация: ностальгические детали здесь помогают исследовать зависимость подростка от чужого одобрения. Уличная компания показана одновременно местом поддержки и средой рискованного подражания. Такая двойственность делает историю не только портретом конкретного поколения, но и наблюдением за тем, как человек учится различать близость, авторитет и давление группы.",
+        "facts": [
+          {
+            "text": "Это первый полнометражный фильм Джоны Хилла в качестве режиссёра.",
+            "source_ids": [
+              "primary",
+              "catalog"
+            ]
+          },
+          {
+            "text": "Картина снята на Super 16 с соотношением сторон 4:3.",
+            "source_ids": [
+              "catalog",
+              "imdb"
+            ]
+          },
+          {
+            "text": "Оригинальную музыку написали Трент Резнор и Аттикус Росс.",
+            "source_ids": [
+              "primary",
+              "credits"
+            ]
+          }
+        ]
+      },
+      "release": {
+        "world_premiere": {
+          "date": "09092018",
+          "year": 2018,
+          "event": "Международный кинофестиваль в Торонто",
+          "release_type": "festival_premiere",
+          "source_ids": [
+            "catalog",
+            "kp"
+          ]
+        },
+        "russian_premiere": {
+          "date": "14032019",
+          "year": 2019,
+          "event": "Российский кинопрокат",
+          "release_type": "theatrical_release",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "additional_releases": []
+      },
+      "recognition": {
+        "awards": [
+          {
+            "year": 2019,
+            "event": "Независимый дух",
+            "category": "Лучший монтаж",
+            "recipient": "Ник Хой",
+            "result": "nomination",
+            "source_ids": [
+              "catalog"
+            ]
+          },
+          {
+            "year": 2019,
+            "event": "Critics’ Choice Movie Awards",
+            "category": "Лучший молодой актёр или актриса",
+            "recipient": "Санни Сулджик",
+            "result": "nomination",
+            "source_ids": [
+              "catalog"
+            ]
+          }
+        ]
+      },
+      "finances": {
+        "budget": {
+          "amount": 1700000,
+          "currency": "USD",
+          "estimated": true,
+          "source_ids": [
+            "kp",
+            "catalog"
+          ]
+        },
+        "worldwide_gross": {
+          "amount": 9303022,
+          "currency": "USD",
+          "estimated": false,
+          "source_ids": [
+            "kp"
+          ],
+          "coverage_note": "Кинотеатральные сборы; цифровая выручка не включена."
+        }
+      },
+      "ratings": {
+        "kinopoisk": {
+          "value": 7.4,
+          "scale": 10,
+          "votes": 100035,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "imdb": {
+          "value": 7.4,
+          "scale": 10,
+          "votes": 90000,
+          "votes_approximate": true,
+          "checked_on": "24092026",
+          "source_ids": [
+            "imdb"
+          ]
+        }
+      },
+      "links": {
+        "official_trailer": {
+          "url": "https://a24films.com/films/mid90s",
+          "link_type": "trailer_page",
+          "language": "Оригинальная звуковая дорожка / субтитры по странице",
+          "source_ids": [
+            "primary"
+          ]
+        }
+      },
+      "poster": {
+        "path": "posters/1040690.jpg",
+        "source_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1946459/26a0ba22-ca36-4f61-8ed4-a99df5daa7ca/orig",
+        "source_page": "https://www.kinopoisk.ru/film/1040690/",
+        "language": "ru",
+        "format": "jpeg",
+        "width": 800,
+        "height": 1200,
+        "bytes": 224780,
+        "sha256": "8da94b1a8afe4b4f3ce156ae14ab69b7198badbd7c30c1af92ae8228c3ecb282"
+      },
+      "sources": [
+        {
+          "id": "kp",
+          "url": "https://www.kinopoisk.ru/film/1040690/",
+          "title": "Кинопоиск: карточка фильма",
+          "sections": [
+            "identification",
+            "details",
+            "creators",
+            "release",
+            "recognition",
+            "finances",
+            "ratings",
+            "poster"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "imdb",
+          "url": "https://www.imdb.com/title/tt5613484/",
+          "title": "IMDb: карточка фильма",
+          "sections": [
+            "identification",
+            "cast",
+            "details",
+            "ratings",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "primary",
+          "url": "https://a24films.com/films/mid90s",
+          "title": "A24: Mid90s, официальный трейлер и описание",
+          "sections": [
+            "details",
+            "creators",
+            "cast",
+            "content",
+            "context",
+            "links"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "catalog",
+          "url": "https://en.wikipedia.org/wiki/Mid90s",
+          "title": "Wikipedia: сводная фильмография и ссылки на первоисточники",
+          "sections": [
+            "creators",
+            "cast",
+            "context",
+            "release",
+            "recognition",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "credits",
+          "url": "https://www.imdb.com/title/tt5613484/fullcredits/",
+          "title": "IMDb: полные титры Mid90s",
+          "sections": [
+            "creators",
+            "cast"
+          ],
+          "accessed_on": "24092026"
+        }
+      ],
+      "completeness": {
+        "missing": [
+          {
+            "field": "creators.source_material",
+            "status": "not_found",
+            "reason": "Литературный первоисточник не установлен.",
+            "source_ids": [
+              "primary",
+              "kp"
+            ]
+          }
+        ],
+        "discrepancies": []
+      }
+    },
+    {
+      "identification": {
+        "kinopoisk_id": 714248,
+        "kinopoisk_url": "https://www.kinopoisk.ru/film/714248/",
+        "imdb_id": "tt1865505",
+        "imdb_url": "https://www.imdb.com/title/tt1865505/",
+        "title_ru": "Песнь моря",
+        "title_original": "Song of the Sea",
+        "alternative_titles": [],
+        "year": 2014,
+        "film_type": "анимационный полнометражный фильм"
+      },
+      "details": {
+        "countries": [
+          "Ирландия",
+          "Дания",
+          "Бельгия",
+          "Франция",
+          "Люксембург"
+        ],
+        "languages": [
+          "английский",
+          "ирландский"
+        ],
+        "genres": [
+          "анимация",
+          "фэнтези",
+          "приключения",
+          "семейный",
+          "драма"
+        ],
+        "runtime_minutes": 93,
+        "age_ratings": [
+          {
+            "country": "Россия",
+            "rating": "6+",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ],
+        "color": "цветной",
+        "aspect_ratio": "1.85:1"
+      },
+      "creators": {
+        "directors": [
+          "Томм Мур"
+        ],
+        "screenwriters": [
+          "Уилл Коллинз",
+          "Томм Мур — автор истории"
+        ],
+        "producers": [
+          "Пол Янг",
+          "Томм Мур",
+          "Клеман Кальве",
+          "Жереми Фажнер",
+          "Стефан Рулантс",
+          "Серж Юм",
+          "Марк Юм",
+          "Изабель Трюк",
+          "Фредерик Виллумсен",
+          "Клаус Токсвиг Кьер",
+          "Росс Мюррей"
+        ],
+        "cinematographers": null,
+        "composers": [
+          "Брюно Куле",
+          "Kíla"
+        ],
+        "editors": [
+          "Дарра Бирн"
+        ],
+        "production_companies": [
+          "Cartoon Saloon",
+          "Melusine Productions",
+          "The Big Farm",
+          "Superprod",
+          "Nørlum"
+        ],
+        "source_material": null
+      },
+      "cast": [
+        {
+          "name_ru": "Дэвид Роул",
+          "name_original": "David Rawle",
+          "role": "Бен",
+          "participation_type": "оригинальная английская озвучка",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Люси О’Коннелл",
+          "name_original": "Lucy O’Connell",
+          "role": "Сирша (Saoirse)",
+          "participation_type": "оригинальная английская озвучка",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Брендан Глисон",
+          "name_original": "Brendan Gleeson",
+          "role": "Конор / Мак Лир",
+          "participation_type": "оригинальная английская озвучка",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Фионнула Флэнаган",
+          "name_original": "Fionnula Flanagan",
+          "role": "Бабушка / Маха",
+          "participation_type": "оригинальная английская озвучка",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Лиза Ханниган",
+          "name_original": "Lisa Hannigan",
+          "role": "Брона",
+          "participation_type": "оригинальная английская озвучка",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        }
+      ],
+      "content": {
+        "logline": "Брат и сестра отправляются через мир ирландских преданий, чтобы найти дорогу домой и услышать голос, связывающий людей с морем.",
+        "synopsis": "Бен живёт с отцом и младшей сестрой Сиршей у моря, рядом с маяком. После исчезновения матери семья словно разучилась говорить о самом важном, а девочка вообще не произносит слов. Бен раздражается на сестру и держится за собственные воспоминания о маминых историях. Когда бабушка решает увезти детей в город, привычный берег остаётся далеко, но старые легенды неожиданно оказываются совсем рядом. Сирша связана с существами, о которых рассказывала мать, и её голос может иметь для них особое значение. Брату и сестре предстоит пройти незнакомыми дорогами, встретить удивительных обитателей скрытого мира и научиться полагаться друг на друга. Путешествие соединяет семейную историю с ирландскими сказаниями, постепенно превращая детские страхи и обиды в понятный каждому разговор о памяти, заботе и утрате.",
+        "themes": [
+          "семья и утрата",
+          "сила голоса",
+          "ирландский фольклор",
+          "сочувствие"
+        ],
+        "mood": "Нежное, меланхоличное и волшебное; тревога уравновешена теплом и юмором.",
+        "visual_style": "Рисованная двухмерная анимация с орнаментальными контурами, округлыми формами и акварельными фонами; море и пейзаж организованы как декоративные композиции."
+      },
+      "context": {
+        "text": "Томм Мур и студия Cartoon Saloon обращаются к ирландским преданиям о селки — существах, связанных одновременно с человеческим и морским мирами. Картина продолжает интерес режиссёра к национальному фольклору после «Тайны Келлс» и входит в его ирландскую фольклорную трилогию вместе с «Легендой о волках». Это европейская международная копродукция, выполненная в рисованной анимационной традиции. Музыка объединяет работу Брюно Куле с участием группы Kíla. Редакционная интерпретация: легенды здесь помогают говорить о чувствах, которые ребёнку трудно выразить прямо. Орнаментальная форма не просто украшает приключение, а делает внутреннее состояние семьи частью окружающего мира, сохраняя сказочную условность и эмоциональную доступность истории.",
+        "facts": [
+          {
+            "text": "В основу волшебного мира положены ирландские предания о селки.",
+            "source_ids": [
+              "primary"
+            ]
+          },
+          {
+            "text": "Пять перечисленных исполнителей относятся к английской оригинальной озвучке, а не к русскому дубляжу.",
+            "source_ids": [
+              "catalog",
+              "imdb"
+            ]
+          },
+          {
+            "text": "Фильм был номинирован на «Оскар» за полнометражную анимацию в 2015 году.",
+            "source_ids": [
+              "kp",
+              "catalog"
+            ]
+          }
+        ]
+      },
+      "release": {
+        "world_premiere": {
+          "date": "06092014",
+          "year": 2014,
+          "event": "Международный кинофестиваль в Торонто",
+          "release_type": "festival_premiere",
+          "source_ids": [
+            "catalog",
+            "kp"
+          ]
+        },
+        "russian_premiere": {
+          "date": "27082015",
+          "year": 2015,
+          "event": "Российский кинопрокат",
+          "release_type": "theatrical_release",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "additional_releases": [
+          {
+            "date": "22122022",
+            "year": 2022,
+            "event": "Россия: повторный прокат",
+            "release_type": "rerelease",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ]
+      },
+      "recognition": {
+        "awards": [
+          {
+            "year": 2015,
+            "event": "Оскар",
+            "category": "Лучший анимационный полнометражный фильм",
+            "recipient": "Томм Мур, Пол Янг",
+            "result": "nomination",
+            "source_ids": [
+              "kp",
+              "catalog"
+            ]
+          },
+          {
+            "year": 2015,
+            "event": "Европейская киноакадемия",
+            "category": "Лучший анимационный фильм",
+            "recipient": "Песнь моря",
+            "result": "win",
+            "source_ids": [
+              "catalog"
+            ]
+          },
+          {
+            "year": 2015,
+            "event": "Сезар",
+            "category": "Лучший анимационный фильм",
+            "recipient": "Песнь моря",
+            "result": "nomination",
+            "source_ids": [
+              "catalog"
+            ]
+          }
+        ]
+      },
+      "finances": {
+        "budget": {
+          "amount": 5300000,
+          "currency": "EUR",
+          "estimated": true,
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "worldwide_gross": {
+          "amount": 4190670,
+          "currency": "USD",
+          "estimated": false,
+          "source_ids": [
+            "kp"
+          ],
+          "coverage_note": "Полнота учёта стран и повторных выпусков не установлена."
+        }
+      },
+      "ratings": {
+        "kinopoisk": {
+          "value": 8.2,
+          "scale": 10,
+          "votes": 150955,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "imdb": {
+          "value": 8.0,
+          "scale": 10,
+          "votes": 68000,
+          "votes_approximate": true,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        }
+      },
+      "links": {
+        "official_trailer": {
+          "url": "https://gkids.com/films/song-of-the-sea/",
+          "link_type": "trailer_page",
+          "language": "Оригинальная звуковая дорожка / субтитры по странице",
+          "source_ids": [
+            "primary"
+          ]
+        }
+      },
+      "poster": {
+        "path": "posters/714248.jpg",
+        "source_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/5c11fd2a-17da-48d3-b7e5-97a54a8fc0a9/orig",
+        "source_page": "https://www.kinopoisk.ru/film/714248/",
+        "language": "ru",
+        "format": "jpeg",
+        "width": 800,
+        "height": 1200,
+        "bytes": 397683,
+        "sha256": "b88ebaabf4bb6c72f974e269d7c44f8ed048a88b0c512c369f79cfb9710aa590"
+      },
+      "sources": [
+        {
+          "id": "kp",
+          "url": "https://www.kinopoisk.ru/film/714248/",
+          "title": "Кинопоиск: карточка фильма",
+          "sections": [
+            "identification",
+            "details",
+            "creators",
+            "release",
+            "recognition",
+            "finances",
+            "ratings",
+            "poster"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "imdb",
+          "url": "https://www.imdb.com/title/tt1865505/",
+          "title": "IMDb: карточка фильма",
+          "sections": [
+            "identification",
+            "cast",
+            "details",
+            "ratings",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "primary",
+          "url": "https://gkids.com/films/song-of-the-sea/",
+          "title": "GKIDS: Song of the Sea, официальный прокатчик",
+          "sections": [
+            "details",
+            "creators",
+            "cast",
+            "content",
+            "context",
+            "links"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "catalog",
+          "url": "https://en.wikipedia.org/wiki/Song_of_the_Sea_(2014_film)",
+          "title": "Wikipedia: сводная фильмография и ссылки на первоисточники",
+          "sections": [
+            "creators",
+            "cast",
+            "context",
+            "release",
+            "recognition",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "credits",
+          "url": "https://www.hautetcourt.com/en/films/le-chant-de-la-mer/",
+          "title": "Haut et Court: официальный французский прокатчик, полные основные титры",
+          "sections": [
+            "creators",
+            "details"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "technical",
+          "url": "https://www.imdb.com/title/tt1865505/technical/",
+          "title": "IMDb: технические параметры Song of the Sea",
+          "sections": [
+            "details"
+          ],
+          "accessed_on": "24092026"
+        }
+      ],
+      "completeness": {
+        "missing": [
+          {
+            "field": "creators.cinematographers",
+            "status": "not_applicable",
+            "reason": "Рисованная анимация; оператор игрового изображения неприменим.",
+            "source_ids": [
+              "primary",
+              "catalog"
+            ]
+          },
+          {
+            "field": "creators.source_material",
+            "status": "not_found",
+            "reason": "Литературный первоисточник не установлен.",
+            "source_ids": [
+              "primary",
+              "kp"
+            ]
+          }
+        ],
+        "discrepancies": [
+          {
+            "field": "details.runtime_minutes",
+            "note": "Кинопоиск и IMDb: 93 минуты; сводный каталог: 94. Отдельная монтажная версия не подтверждена.",
+            "source_ids": [
+              "kp",
+              "technical",
+              "catalog"
+            ]
+          },
+          {
+            "field": "details.aspect_ratio",
+            "note": "Формат показа — 1.85:1; формат исходного изображения по IMDb — 1.66:1.",
+            "source_ids": [
+              "technical"
+            ]
+          },
+          {
+            "field": "finances",
+            "note": "Кинопоиск: бюджет 5,3 млн EUR, сборы 4 190 670 USD. Сводный каталог: бюджет около 7,5 млн USD, сборы около 9,3 млн USD. Валюты бюджета и охват сборов различаются.",
+            "source_ids": [
+              "kp",
+              "catalog"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "identification": {
+        "kinopoisk_id": 425,
+        "kinopoisk_url": "https://www.kinopoisk.ru/film/425/",
+        "imdb_id": "tt0050976",
+        "imdb_url": "https://www.imdb.com/title/tt0050976/",
+        "title_ru": "Седьмая печать",
+        "title_original": "Det sjunde inseglet",
+        "alternative_titles": [
+          "The Seventh Seal"
+        ],
+        "year": 1957,
+        "film_type": "игровой полнометражный фильм"
+      },
+      "details": {
+        "countries": [
+          "Швеция"
+        ],
+        "languages": [
+          "шведский",
+          "латинский"
+        ],
+        "genres": [
+          "драма",
+          "фэнтези"
+        ],
+        "runtime_minutes": 96,
+        "age_ratings": [
+          {
+            "country": "Россия",
+            "rating": "18+",
+            "source_ids": [
+              "ru_age"
+            ]
+          }
+        ],
+        "color": "чёрно-белый",
+        "aspect_ratio": "1.37:1"
+      },
+      "creators": {
+        "directors": [
+          "Ингмар Бергман"
+        ],
+        "screenwriters": [
+          "Ингмар Бергман"
+        ],
+        "producers": [
+          "Аллан Экелунд"
+        ],
+        "cinematographers": [
+          "Гуннар Фишер"
+        ],
+        "composers": [
+          "Эрик Нордгрен"
+        ],
+        "editors": [
+          "Леннарт Валлен"
+        ],
+        "production_companies": [
+          "Svensk Filmindustri"
+        ],
+        "source_material": {
+          "title": "Роспись по дереву (Trämålning / Wood Painting)",
+          "author": "Ингмар Бергман",
+          "form": "пьеса",
+          "year": 1954,
+          "source_ids": [
+            "catalog",
+            "primary"
+          ]
+        }
+      },
+      "cast": [
+        {
+          "name_ru": "Макс фон Сюдов",
+          "name_original": "Max von Sydow",
+          "role": "Антониус Блок",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Гуннар Бьёрнстранд",
+          "name_original": "Gunnar Björnstrand",
+          "role": "Йёнс, оруженосец",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Бенгт Экерут",
+          "name_original": "Bengt Ekerot",
+          "role": "Смерть",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Нильс Поппе",
+          "name_original": "Nils Poppe",
+          "role": "Юф",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Биби Андерссон",
+          "name_original": "Bibi Andersson",
+          "role": "Миа",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        }
+      ],
+      "content": {
+        "logline": "Вернувшийся из крестового похода рыцарь предлагает Смерти шахматную партию и отправляется через страну, охваченную чумой.",
+        "synopsis": "Рыцарь Антониус Блок возвращается из крестового похода вместе с оруженосцем Йёнсом. На родине их встречают чума, страх и люди, пытающиеся объяснить происходящее волей небес. На пустынном берегу Блок сталкивается со Смертью и предлагает ей сыграть в шахматы, надеясь выиграть время. Продолжая путь, он ищет ответ на вопрос, который не дают ни вера, ни пережитый опыт: можно ли узнать, есть ли смысл за пределами человеческого существования. Дорога сводит путешественников с бродячими артистами, крестьянами и служителями религиозных обрядов. У каждого свой способ выдержать неизвестность — насмешка, любовь, труд или молитва. История соединяет философский спор с земными заботами людей, которым всё ещё нужно делить еду, растить детей и помогать друг другу среди всеобщей тревоги.",
+        "themes": [
+          "смерть и конечность",
+          "вера и сомнение",
+          "сострадание",
+          "искусство и повседневность"
+        ],
+        "mood": "Суровое и тревожное, с неожиданным бытовым юмором и островками нежности.",
+        "visual_style": "Контрастное чёрно-белое изображение, строгие групповые композиции и пейзажи; театральная условность встречается с материальностью лиц и природных фактур."
+      },
+      "context": {
+        "text": "Ингмар Бергман развил замысел из собственной пьесы «Роспись по дереву». Средневековая Швеция стала пространством, где религиозные вопросы встречаются с личным опытом сомнения. Фильм вышел в 1957 году и получил специальный приз жюри Каннского фестиваля, укрепив международную известность режиссёра. Образ шахматной партии со Смертью впоследствии стал широко узнаваемым мотивом мировой экранной культуры. Редакционная интерпретация: историческая дистанция позволяет читать картину и как разговор с тревогами двадцатого века. При этом абстрактный поиск смысла постоянно соседствует с простыми жестами заботы. Актёрский ансамбль и операторская работа Гуннара Фишера удерживают равновесие между притчей, дорожной историей и наблюдением за живыми людьми.",
+        "facts": [
+          {
+            "text": "Бергман использовал в качестве основы собственную пьесу «Роспись по дереву».",
+            "source_ids": [
+              "catalog",
+              "essay"
+            ]
+          },
+          {
+            "text": "Название отсылает к Откровению Иоанна Богослова.",
+            "source_ids": [
+              "catalog",
+              "essay"
+            ]
+          },
+          {
+            "text": "В Каннах в 1957 году картина получила специальный приз жюри.",
+            "source_ids": [
+              "kp",
+              "catalog"
+            ]
+          }
+        ]
+      },
+      "release": {
+        "world_premiere": {
+          "date": "16021957",
+          "year": 1957,
+          "event": "Швеция: первоначальный кинопрокат",
+          "release_type": "theatrical_release",
+          "source_ids": [
+            "catalog",
+            "kp"
+          ]
+        },
+        "russian_premiere": {
+          "date": null,
+          "year": null,
+          "event": "Первый показ в России не установлен",
+          "release_type": "unconfirmed",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "additional_releases": [
+          {
+            "date": "03022022",
+            "year": 2022,
+            "event": "Россия: репертуарный прокат",
+            "release_type": "repertory_release",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ]
+      },
+      "recognition": {
+        "awards": [
+          {
+            "year": 1957,
+            "event": "Каннский кинофестиваль",
+            "category": "Специальный приз жюри",
+            "recipient": "Ингмар Бергман / Седьмая печать",
+            "result": "win",
+            "source_ids": [
+              "kp",
+              "catalog"
+            ]
+          }
+        ]
+      },
+      "finances": {
+        "budget": {
+          "amount": 150000,
+          "currency": "USD",
+          "estimated": true,
+          "source_ids": [
+            "kp",
+            "catalog"
+          ]
+        },
+        "worldwide_gross": null
+      },
+      "ratings": {
+        "kinopoisk": {
+          "value": 8.0,
+          "scale": 10,
+          "votes": 65137,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "imdb": {
+          "value": 8.1,
+          "scale": 10,
+          "votes": 215000,
+          "votes_approximate": true,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        }
+      },
+      "links": {
+        "official_trailer": {
+          "url": "https://www.criterion.com/films/173-the-seventh-seal",
+          "link_type": "trailer_page",
+          "language": "Оригинальная звуковая дорожка / субтитры по странице",
+          "source_ids": [
+            "primary"
+          ]
+        }
+      },
+      "poster": {
+        "path": "posters/425.jpg",
+        "source_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/4483445/55cd6edb-5528-49b3-9acf-c2301d889f73/orig",
+        "source_page": "https://www.kinopoisk.ru/film/425/",
+        "language": "ru",
+        "format": "jpeg",
+        "width": 800,
+        "height": 1200,
+        "bytes": 301603,
+        "sha256": "c06dd0b8549fc6a66dce3e7fb5479907f5dbe8f6a320cfb0ae2ab6feabb59850"
+      },
+      "sources": [
+        {
+          "id": "kp",
+          "url": "https://www.kinopoisk.ru/film/425/",
+          "title": "Кинопоиск: карточка фильма",
+          "sections": [
+            "identification",
+            "details",
+            "creators",
+            "release",
+            "recognition",
+            "finances",
+            "ratings",
+            "poster"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "imdb",
+          "url": "https://www.imdb.com/title/tt0050976/",
+          "title": "IMDb: карточка фильма",
+          "sections": [
+            "identification",
+            "cast",
+            "details",
+            "ratings",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "primary",
+          "url": "https://www.criterion.com/films/173-the-seventh-seal",
+          "title": "Criterion: The Seventh Seal, издание и титры",
+          "sections": [
+            "details",
+            "creators",
+            "cast",
+            "content",
+            "context",
+            "links"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "catalog",
+          "url": "https://en.wikipedia.org/wiki/The_Seventh_Seal",
+          "title": "Wikipedia: сводная фильмография и ссылки на первоисточники",
+          "sections": [
+            "creators",
+            "cast",
+            "context",
+            "release",
+            "recognition",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "ru_age",
+          "url": "https://afisha.yandex.ru/moscow/cinema/sedmaia-pechat",
+          "title": "Яндекс Афиша: российский репертуарный выпуск",
+          "sections": [
+            "details",
+            "release"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "essay",
+          "url": "https://www.criterion.com/current/posts/21-the-seventh-seal",
+          "title": "Criterion: эссе о Седьмой печати",
+          "sections": [
+            "context",
+            "content"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "technical",
+          "url": "https://www.imdb.com/title/tt0050976/technical/",
+          "title": "IMDb: технические параметры",
+          "sections": [
+            "details"
+          ],
+          "accessed_on": "24092026"
+        }
+      ],
+      "completeness": {
+        "missing": [
+          {
+            "field": "release.russian_premiere.date",
+            "status": "not_found",
+            "reason": "3 февраля 2022 года — поздний репертуарный выпуск; первый показ в России или СССР не установлен.",
+            "source_ids": [
+              "kp"
+            ]
+          },
+          {
+            "field": "release.russian_premiere.year",
+            "status": "not_found",
+            "reason": "Год первого российского показа не установлен.",
+            "source_ids": [
+              "kp"
+            ]
+          },
+          {
+            "field": "finances.worldwide_gross",
+            "status": "not_found",
+            "reason": "Полный мировой итог не установлен. Кинопоиск указывает 23 758 USD как мировую сумму и 89 301 USD для России: охват несовместим.",
+            "source_ids": [
+              "kp",
+              "imdb"
+            ]
+          }
+        ],
+        "discrepancies": [
+          {
+            "field": "details.runtime_minutes",
+            "note": "Кинопоиск и IMDb: 96 минут; Criterion: 97. Отдельная монтажная версия не подтверждена.",
+            "source_ids": [
+              "kp",
+              "technical",
+              "primary"
+            ]
+          },
+          {
+            "field": "release.russian_premiere",
+            "note": "Российский репертуарный выпуск 3 февраля 2022 года; дата самого первого показа в России или СССР не установлена.",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "identification": {
+        "kinopoisk_id": 425400,
+        "kinopoisk_url": "https://www.kinopoisk.ru/film/425400/",
+        "imdb_id": "tt1255953",
+        "imdb_url": "https://www.imdb.com/title/tt1255953/",
+        "title_ru": "Пожары",
+        "title_original": "Incendies",
+        "alternative_titles": [],
+        "year": 2010,
+        "film_type": "игровой полнометражный фильм"
+      },
+      "details": {
+        "countries": [
+          "Канада",
+          "Франция"
+        ],
+        "languages": [
+          "французский",
+          "арабский",
+          "английский"
+        ],
+        "genres": [
+          "драма",
+          "детектив",
+          "военный"
+        ],
+        "runtime_minutes": 131,
+        "age_ratings": [
+          {
+            "country": "Россия",
+            "rating": "18+",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ],
+        "color": "цветной",
+        "aspect_ratio": "1.85:1"
+      },
+      "creators": {
+        "directors": [
+          "Дени Вильнёв"
+        ],
+        "screenwriters": [
+          "Дени Вильнёв",
+          "Валери Богран-Шампань"
+        ],
+        "producers": [
+          "Люк Дери",
+          "Ким Маккроу"
+        ],
+        "cinematographers": [
+          "Андре Тюрпен"
+        ],
+        "composers": [
+          "Грегуар Этцель"
+        ],
+        "editors": [
+          "Моник Дартонн"
+        ],
+        "production_companies": [
+          "micro_scope",
+          "TS Productions",
+          "Phi Group"
+        ],
+        "source_material": {
+          "title": "Пожары (Incendies)",
+          "author": "Важди Муавад",
+          "form": "пьеса",
+          "year": 2003,
+          "source_ids": [
+            "primary",
+            "catalog"
+          ]
+        }
+      },
+      "cast": [
+        {
+          "name_ru": "Лубна Азабаль",
+          "name_original": "Lubna Azabal",
+          "role": "Наваль Марван",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Мелисса Дезормо-Пулен",
+          "name_original": "Mélissa Désormeaux-Poulin",
+          "role": "Жанна Марван",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Максим Годетт",
+          "name_original": "Maxim Gaudette",
+          "role": "Симон Марван",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Реми Жирар",
+          "name_original": "Rémy Girard",
+          "role": "Жан Лебель, нотариус",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Аллен Олтмен",
+          "name_original": "Allen Altman",
+          "role": "Маддад, нотариус",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        }
+      ],
+      "content": {
+        "logline": "Завещание матери отправляет канадских близнецов на Ближний Восток, где им предстоит заново узнать историю своей семьи.",
+        "synopsis": "После смерти матери близнецы Жанна и Симон приходят к нотариусу и получают необычное завещание. Им оставлены два письма, которые нужно передать людям, само существование которых ставит под сомнение привычную семейную историю. Жанна решает разобраться в прошлом Наваль и отправляется на Ближний Восток; Симону гораздо труднее принять материнскую просьбу. Поиски ведут от официальных свидетельств к чужим воспоминаниям, от сегодняшней жизни к следам давнего вооружённого конфликта. Параллельно фильм показывает молодую Наваль в стране, где частная судьба всё сильнее зависит от политического и религиозного противостояния. Близнецам приходится учиться слушать людей, для которых прошлое по-прежнему остаётся болезненным настоящим. Семейное расследование постепенно превращается в попытку понять молчание матери, силу её обещаний и цену сохранённой памяти.",
+        "themes": [
+          "семейная память",
+          "последствия войны",
+          "молчание и свидетельство",
+          "поиск происхождения"
+        ],
+        "mood": "Напряжённое, скорбное и сосредоточенное; эмоциональная сила нарастает без облегчительных объяснений.",
+        "visual_style": "Сдержанная камера, выжженные пейзажи и контраст канадского настоящего с ближневосточным прошлым; монтаж соединяет два времени через поиск свидетельств."
+      },
+      "context": {
+        "text": "Дени Вильнёв экранизировал пьесу канадского драматурга Важди Муавада, впервые поставленную в 2003 году. Исторический фон напоминает гражданскую войну в Ливане, однако экранная страна намеренно не названа. Это художественное произведение, а не документальная реконструкция одной конкретной семьи. Съёмки проходили в Канаде и Иордании, а международная премьера состоялась на Венецианском фестивале в 2010 году. Картина представляла Канаду на «Оскаре» и вошла в число номинантов. Редакционная интерпретация: структура расследования нужна здесь для разговора о наследовании травмы и ответственности слушателя. Переходы между поколениями позволяют увидеть, как война продолжает действовать в мирной жизни через умолчания, обещания и невозможность легко отделить личное от исторического.",
+        "facts": [
+          {
+            "text": "Литературная основа — пьеса Важди Муавада «Пожары», впервые поставленная в 2003 году.",
+            "source_ids": [
+              "primary",
+              "catalog"
+            ]
+          },
+          {
+            "text": "Основные съёмочные территории — Канада и Иордания.",
+            "source_ids": [
+              "primary",
+              "catalog"
+            ]
+          },
+          {
+            "text": "Ближневосточная страна в фильме не названа; её нельзя без оговорки записывать как буквальное изображение Ливана.",
+            "source_ids": [
+              "primary",
+              "catalog"
+            ]
+          }
+        ]
+      },
+      "release": {
+        "world_premiere": {
+          "date": "03092010",
+          "year": 2010,
+          "event": "Венецианский кинофестиваль",
+          "release_type": "festival_premiere",
+          "source_ids": [
+            "kp",
+            "catalog"
+          ]
+        },
+        "russian_premiere": {
+          "date": "15122011",
+          "year": 2011,
+          "event": "Российский кинопрокат",
+          "release_type": "theatrical_release",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "additional_releases": [
+          {
+            "date": "05102023",
+            "year": 2023,
+            "event": "Россия: повторный прокат",
+            "release_type": "rerelease",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ]
+      },
+      "recognition": {
+        "awards": [
+          {
+            "year": 2011,
+            "event": "Оскар",
+            "category": "Лучший фильм на иностранном языке",
+            "recipient": "Канада / Пожары",
+            "result": "nomination",
+            "source_ids": [
+              "kp",
+              "catalog"
+            ]
+          },
+          {
+            "year": 2011,
+            "event": "Джини",
+            "category": "Лучший фильм",
+            "recipient": "Люк Дери, Ким Маккроу",
+            "result": "win",
+            "source_ids": [
+              "catalog"
+            ]
+          },
+          {
+            "year": 2011,
+            "event": "Джини",
+            "category": "Лучшая режиссура",
+            "recipient": "Дени Вильнёв",
+            "result": "win",
+            "source_ids": [
+              "catalog"
+            ]
+          },
+          {
+            "year": 2011,
+            "event": "Джини",
+            "category": "Лучшая женская роль",
+            "recipient": "Лубна Азабаль",
+            "result": "win",
+            "source_ids": [
+              "catalog"
+            ]
+          }
+        ]
+      },
+      "finances": {
+        "budget": {
+          "amount": 6800000,
+          "currency": "USD",
+          "estimated": true,
+          "source_ids": [
+            "imdb",
+            "kp"
+          ]
+        },
+        "worldwide_gross": {
+          "amount": 6788782,
+          "currency": "USD",
+          "estimated": false,
+          "source_ids": [
+            "imdb"
+          ],
+          "coverage_note": "Полнота учёта стран и повторных выпусков не установлена."
+        }
+      },
+      "ratings": {
+        "kinopoisk": {
+          "value": 8.1,
+          "scale": 10,
+          "votes": 252688,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "imdb": {
+          "value": 8.3,
+          "scale": 10,
+          "votes": 260000,
+          "votes_approximate": true,
+          "checked_on": "24092026",
+          "source_ids": [
+            "imdb"
+          ]
+        }
+      },
+      "links": {
+        "official_trailer": {
+          "url": "https://www.sonyclassics.com/incendies/",
+          "link_type": "trailer_page",
+          "language": "Оригинальная звуковая дорожка / субтитры по странице",
+          "source_ids": [
+            "official"
+          ]
+        }
+      },
+      "poster": {
+        "path": "posters/425400.jpg",
+        "source_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/4303601/40b4b961-07ab-4ce3-892f-63d6bd1fabc6/orig",
+        "source_page": "https://www.kinopoisk.ru/film/425400/",
+        "language": "ru",
+        "format": "jpeg",
+        "width": 839,
+        "height": 1200,
+        "bytes": 237368,
+        "sha256": "5249183f8d729854202d7b637f0ce6e66e0ab1f3f57067fb36f85a777b841382"
+      },
+      "sources": [
+        {
+          "id": "kp",
+          "url": "https://www.kinopoisk.ru/film/425400/",
+          "title": "Кинопоиск: карточка фильма",
+          "sections": [
+            "identification",
+            "details",
+            "creators",
+            "release",
+            "recognition",
+            "finances",
+            "ratings",
+            "poster"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "imdb",
+          "url": "https://www.imdb.com/title/tt1255953/",
+          "title": "IMDb: карточка фильма",
+          "sections": [
+            "identification",
+            "cast",
+            "details",
+            "ratings",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "primary",
+          "url": "https://www.sonyclassics.com/incendies/presskit.pdf",
+          "title": "Sony Pictures Classics: официальный пресс-кит Incendies",
+          "sections": [
+            "details",
+            "creators",
+            "cast",
+            "content",
+            "context",
+            "links"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "catalog",
+          "url": "https://en.wikipedia.org/wiki/Incendies",
+          "title": "Wikipedia: сводная фильмография и ссылки на первоисточники",
+          "sections": [
+            "creators",
+            "cast",
+            "context",
+            "release",
+            "recognition",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "official",
+          "url": "https://www.sonyclassics.com/incendies/",
+          "title": "Sony Pictures Classics: официальный сайт и трейлер",
+          "sections": [
+            "links",
+            "content"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "technical",
+          "url": "https://www.imdb.com/title/tt1255953/technical/",
+          "title": "IMDb: технические параметры Incendies",
+          "sections": [
+            "details"
+          ],
+          "accessed_on": "24092026"
+        }
+      ],
+      "completeness": {
+        "missing": [],
+        "discrepancies": [
+          {
+            "field": "details.runtime_minutes",
+            "note": "Кинопоиск: 131 минута; IMDb: 130 минут для канадского выпуска. Отдельная монтажная версия не подтверждена.",
+            "source_ids": [
+              "kp",
+              "technical"
+            ]
+          },
+          {
+            "field": "details.age_ratings",
+            "note": "Кинопоиск: 18+; на русском прокатном плакате — 16+.",
+            "source_ids": [
+              "kp"
+            ]
+          },
+          {
+            "field": "finances.worldwide_gross",
+            "note": "Кинопоиск: 3 548 768 USD; IMDb: 6 788 782 USD; сводный каталог: около 16 млн USD. Полнота территориального охвата не установлена.",
+            "source_ids": [
+              "kp",
+              "imdb",
+              "catalog"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "identification": {
+        "kinopoisk_id": 5237750,
+        "kinopoisk_url": "https://www.kinopoisk.ru/film/5237750/",
+        "imdb_id": "tt25967094",
+        "imdb_url": "https://www.imdb.com/title/tt25967094/",
+        "title_ru": "Не хороните меня без Ивана",
+        "title_original": "Кэрэни көрбүт",
+        "alternative_titles": [
+          "Не хороните меня без Ивана",
+          "Don’t Bury Me Without Ivan",
+          "Ne khoronite menya bez Ivana"
+        ],
+        "year": 2022,
+        "film_type": "игровой полнометражный фильм"
+      },
+      "details": {
+        "countries": [
+          "Россия"
+        ],
+        "languages": [
+          "якутский",
+          "русский"
+        ],
+        "genres": [
+          "драма",
+          "комедия",
+          "исторический"
+        ],
+        "runtime_minutes": 124,
+        "age_ratings": [
+          {
+            "country": "Россия",
+            "rating": "12+",
+            "source_ids": [
+              "kp",
+              "festival"
+            ]
+          }
+        ],
+        "color": "цветной",
+        "aspect_ratio": "1.33:1"
+      },
+      "creators": {
+        "directors": [
+          "Любовь Борисова"
+        ],
+        "screenwriters": [
+          "Любовь Борисова",
+          "Юлия Клименко"
+        ],
+        "producers": [
+          "Иван Болотников",
+          "Дмитрий Шадрин",
+          "Сардана Саввина"
+        ],
+        "cinematographers": [
+          "Семён Аманатов"
+        ],
+        "composers": [
+          "Моисей Кобяков"
+        ],
+        "editors": [
+          "Любовь Борисова"
+        ],
+        "production_companies": [
+          "Сахафильм",
+          "Студия «Автор»"
+        ],
+        "source_material": null,
+        "credit_notes": "Сценарий основан на истории Ивана Попова и Степана Бересекова, архивных фотографиях и этнографических материалах. Прокопий Иванов — исполнительный продюсер; Reflexion Films — прокатчик."
+      },
+      "cast": [
+        {
+          "name_ru": "Дариус Гумаускас",
+          "name_original": "Darius Gumauskas",
+          "role": "Иван Попов",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb_credits",
+            "kp_cast"
+          ]
+        },
+        {
+          "name_ru": "Александр Чичахов",
+          "name_original": "Aleksandr Chichakhov",
+          "role": "Степан Бересеков",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb_credits",
+            "kp_cast"
+          ]
+        },
+        {
+          "name_ru": "Михаил Сажин",
+          "name_original": "Mikhail Sazhin",
+          "role": "Николай Попов",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb_credits",
+            "kp_cast"
+          ]
+        },
+        {
+          "name_ru": "Вячеслав Югов",
+          "name_original": "Vyacheslav Yugov",
+          "role": "отец Василий",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb_credits",
+            "kp_cast"
+          ]
+        },
+        {
+          "name_ru": "Елена Маркова",
+          "name_original": "Elena Markova",
+          "role": "Февронья",
+          "participation_type": "актёр",
+          "source_ids": [
+            "imdb_credits",
+            "kp_cast"
+          ]
+        }
+      ],
+      "content": {
+        "logline": "Якутский крестьянин, страдающий приступами летаргического сна, следует за художником в экспедицию, чтобы однажды не оказаться похороненным заживо.",
+        "synopsis": "Якутия, 1910 год. Степан Бересеков живёт среди людей, которым трудно понять его необычное состояние: время от времени он впадает в сон, почти неотличимый от смерти. Художник и исследователь Иван Попов умеет распознавать эти приступы и становится для Степана человеком, которому можно доверить собственную жизнь. Но Ивану предстоит долгая этнографическая экспедиция. Не желая оставаться без своего защитника, Степан решает отправиться вслед за ним. Дорога ведёт путешественников через селения и открытые просторы, знакомит с разными людьми, обычаями и историями. Пока Иван собирает предметы и свидетельства местной культуры, его спутник по-своему воспринимает красоту окружающего мира. Их совместный путь соединяет бытовые трудности, смешные недоразумения и моменты тихого удивления, постепенно превращаясь в историю доверия, человеческой чуткости и внимательного отношения к жизни.",
+        "themes": [
+          "дружба и доверие",
+          "способность видеть красоту",
+          "страх смерти и любовь к жизни",
+          "культурная память"
+        ],
+        "mood": "Тёплое, созерцательное и мягко ироничное; тревога за уязвимого героя соседствует с радостью открытия мира.",
+        "visual_style": "Цветное изображение в формате 4:3, напоминающем исторические фотографии; спокойные композиции, естественные пейзажи и внимание к лицам, одежде и предметам быта. Свет и протяжённость дорожных сцен создают неспешный ритм."
+      },
+      "context": {
+        "text": "Любовь Борисова обратилась к истории художника и этнографа Ивана Попова и его знакомого Степана Бересекова после публикации историка Александра Дьяконова. Сценарий она дорабатывала вместе с Юлией Клименко; фильм произвели «Сахафильм» и московская студия «Автор». Фотографии Попова, музейные каталоги и консультации исследователей помогли восстановить облик эпохи. Исполнителя Степана, школьного учителя Александра Чичахова, режиссёр встретила во время поездки со своим предыдущим фильмом. Редакционная интерпретация: картина соединяет современное якутское авторское кино с местной исторической памятью, выбирая дружбу и восприимчивость к красоте главными проводниками в прошлое. Дорожная форма позволяет показать культуру через встречи и повседневные занятия, сохраняя самостоятельность персонажей и не превращая их в иллюстрации к учебнику.",
+        "facts": [
+          {
+            "text": "По словам Любови Борисовой, импульсом к сценарию стал пост историка Александра Дьяконова с рассказом и фотографиями Ивана Попова и Степана Бересекова.",
+            "source_ids": [
+              "production_interview"
+            ]
+          },
+          {
+            "text": "Александр Чичахов, сыгравший Степана, работал школьным учителем труда; режиссёр заметила его во время поездки в село Ой.",
+            "source_ids": [
+              "production_interview"
+            ]
+          },
+          {
+            "text": "Семён Аманатов объяснил выбор формата 4:3 желанием оживить фотографии Ивана Попова.",
+            "source_ids": [
+              "camera_interview"
+            ]
+          }
+        ]
+      },
+      "release": {
+        "world_premiere": {
+          "date": "05122022",
+          "year": 2022,
+          "event": "Москва, кинотеатр «Художественный», фестиваль «Зимний»; самый ранний подтверждённый премьерный показ",
+          "release_type": "festival_premiere",
+          "source_ids": [
+            "premiere",
+            "kp"
+          ]
+        },
+        "russian_premiere": {
+          "date": "05122022",
+          "year": 2022,
+          "event": "Москва, фестиваль «Зимний»",
+          "release_type": "festival_premiere",
+          "source_ids": [
+            "premiere",
+            "kp"
+          ]
+        },
+        "additional_releases": [
+          {
+            "date": "22122022",
+            "year": 2022,
+            "event": "Якутия: региональный кинопрокат",
+            "release_type": "regional_theatrical_release",
+            "source_ids": [
+              "regional_release",
+              "box_office"
+            ]
+          },
+          {
+            "date": "26012023",
+            "year": 2023,
+            "event": "Россия: федеральный кинопрокат, Reflexion Films",
+            "release_type": "wide_theatrical_release",
+            "source_ids": [
+              "seance",
+              "kp"
+            ]
+          },
+          {
+            "date": "30032023",
+            "year": 2023,
+            "event": "Россия: цифровой выпуск, RWV Film",
+            "release_type": "digital_release",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ]
+      },
+      "recognition": {
+        "awards": [
+          {
+            "year": 2022,
+            "event": "Зимний",
+            "category": "Главный приз",
+            "recipient": "Не хороните меня без Ивана / Любовь Борисова",
+            "result": "win",
+            "source_ids": [
+              "zimny"
+            ]
+          },
+          {
+            "year": 2023,
+            "event": "Фаджр, 41-й международный кинофестиваль",
+            "category": "Лучший сценарий",
+            "recipient": "Любовь Борисова, Юлия Клименко",
+            "result": "win",
+            "source_ids": [
+              "festival",
+              "fajr"
+            ]
+          },
+          {
+            "year": 2023,
+            "event": "XXV Всероссийский Шукшинский кинофестиваль",
+            "category": "Гран-при за лучший игровой полнометражный фильм",
+            "recipient": "Не хороните меня без Ивана / Любовь Борисова",
+            "result": "win",
+            "source_ids": [
+              "shukshin"
+            ]
+          },
+          {
+            "year": 2023,
+            "event": "Кинофестиваль стран Шанхайской организации сотрудничества",
+            "category": "Специальный приз жюри",
+            "recipient": "Не хороните меня без Ивана",
+            "result": "win",
+            "source_ids": [
+              "festival",
+              "fajr"
+            ]
+          },
+          {
+            "year": 2024,
+            "event": "Белый квадрат",
+            "category": "Лучшая операторская работа в полнометражном художественном фильме 2023 года",
+            "recipient": "Семён Аманатов",
+            "result": "nomination",
+            "source_ids": [
+              "camera_interview"
+            ]
+          }
+        ]
+      },
+      "finances": {
+        "budget": {
+          "amount": 29000000,
+          "currency": "RUB",
+          "estimated": true,
+          "source_ids": [
+            "production_interview",
+            "box_office"
+          ],
+          "coverage_note": "Финансирование: 20 млн RUB от Минкультуры РФ и 9 млн RUB от Республики Саха (Якутия)."
+        },
+        "worldwide_gross": null
+      },
+      "ratings": {
+        "kinopoisk": {
+          "value": 8.0,
+          "scale": 10,
+          "votes": 8127,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "imdb": {
+          "value": 7.4,
+          "scale": 10,
+          "votes": 169,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "imdb_ratings"
+          ]
+        }
+      },
+      "links": {
+        "official_trailer": {
+          "url": "https://kinotv.ru/read/news/u-yakutskogo-filma-ne-khoronite-menya-bez-ivana-poyavilsya-treyler/",
+          "link_type": "trailer_page",
+          "language": "якутский / русские субтитры",
+          "source_ids": [
+            "trailer"
+          ]
+        }
+      },
+      "poster": {
+        "path": "posters/5237750.jpg",
+        "source_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/6b77ebeb-e23a-4de8-a64c-adc2c1c7f639/orig",
+        "source_page": "https://www.kinopoisk.ru/film/5237750/",
+        "language": "ru",
+        "format": "jpeg",
+        "width": 801,
+        "height": 1200,
+        "bytes": 397731,
+        "sha256": "f177aebc114efda262cb2765850c34688dc3355eae7cf825e9b14e01a9d94ac4",
+        "selection_note": "Плакат федерального проката с 26 января 2023 года."
+      },
+      "sources": [
+        {
+          "id": "kp",
+          "url": "https://www.kinopoisk.ru/film/5237750/",
+          "title": "Кинопоиск: Не хороните меня без Ивана",
+          "sections": [
+            "identification",
+            "details",
+            "creators",
+            "release",
+            "ratings",
+            "poster"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "kp_cast",
+          "url": "https://www.kinopoisk.ru/film/5237750/cast/",
+          "title": "Кинопоиск: актёры и съёмочная группа",
+          "sections": [
+            "cast",
+            "creators"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "imdb_credits",
+          "url": "https://www.imdb.com/title/tt25967094/fullcredits/",
+          "title": "IMDb: полные титры и имена персонажей",
+          "sections": [
+            "identification",
+            "cast",
+            "creators"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "imdb_ratings",
+          "url": "https://www.imdb.com/title/tt25967094/ratings/",
+          "title": "IMDb: рейтинг и количество оценок",
+          "sections": [
+            "ratings"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "festival",
+          "url": "https://zerkalo.space/ivanfilm",
+          "title": "Кинофестиваль «Зеркало»: Не хороните меня без Ивана",
+          "sections": [
+            "details",
+            "creators",
+            "content",
+            "recognition"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "production_interview",
+          "url": "https://sakhafilm.ru/news/jakutskij-rezhisser-rasskazala-o-semkah-filma-ne-horonite-menja-bez-ivana/",
+          "title": "Сахафильм: интервью Любови Борисовой о создании фильма",
+          "sections": [
+            "context",
+            "creators",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "camera_interview",
+          "url": "https://sakhaday.ru/news/nominant-belogo-kvadrata-kinooperator-semen-amanatov-ya-ne-ispolzoval-novomodnye-fishki",
+          "title": "Sakhaday: интервью оператора Семёна Аманатова",
+          "sections": [
+            "details",
+            "context",
+            "recognition"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "seance",
+          "url": "https://seance.ru/articles/lyubov-borisova-interview/",
+          "title": "Сеанс: интервью Любови Борисовой, 19 января 2023 года",
+          "sections": [
+            "context",
+            "content",
+            "release"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "premiere",
+          "url": "https://t.me/s/sakhafilm_ykt?before=472",
+          "title": "Официальный канал Сахафильма: сообщение о премьере 5 декабря 2022 года",
+          "sections": [
+            "release"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "regional_release",
+          "url": "https://yakutia.info/article/207513",
+          "title": "Якутия.Инфо: дата якутского проката и оригинальное название",
+          "sections": [
+            "identification",
+            "release"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "zimny",
+          "url": "https://zimnyfest.ru/tpost/m5i7cvycm1-pervii-kinofestival-avtorskogo-kino-zimn",
+          "title": "Фестиваль «Зимний»: итоги первого фестиваля",
+          "sections": [
+            "recognition"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "shukshin",
+          "url": "https://cntdaltai.ru/?p=40885",
+          "title": "Алтайский государственный Дом народного творчества: итоги Шукшинского фестиваля 2023",
+          "sections": [
+            "recognition"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "fajr",
+          "url": "https://ysia.ru/film-ne-horonite-menya-bez-ivana-poluchil-nagradu-na-mezhdunarodnom-kinofestivale-v-irane/",
+          "title": "ЯСИА: награды «Фаджра» и фестиваля стран ШОС",
+          "sections": [
+            "recognition"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "box_office",
+          "url": "https://kinobusiness.com/movies/ne-khoronite-menya-bez-ivana/",
+          "title": "Кинобизнес сегодня: бюджет и сборы в России и СНГ",
+          "sections": [
+            "finances",
+            "details",
+            "release"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "kinoafisha",
+          "url": "https://www.kinoafisha.info/movies/8368766/",
+          "title": "Киноафиша: альтернативные названия и каталожные финансовые данные",
+          "sections": [
+            "identification",
+            "finances",
+            "release"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "wink",
+          "url": "https://wink.ru/movies/ne-khoronite-menya-bez-ivana-year-2022",
+          "title": "Wink: цифровая версия и длительность",
+          "sections": [
+            "details"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "trailer",
+          "url": "https://kinotv.ru/read/news/u-yakutskogo-filma-ne-khoronite-menya-bez-ivana-poyavilsya-treyler/",
+          "title": "КиноТВ: официальный трейлер от Reflexion Films",
+          "sections": [
+            "links"
+          ],
+          "accessed_on": "24092026"
+        }
+      ],
+      "completeness": {
+        "missing": [
+          {
+            "field": "creators.source_material",
+            "status": "not_applicable",
+            "reason": "Сценарий основан на реальных событиях и разных этнографических материалах, а не на одном литературном произведении.",
+            "source_ids": [
+              "production_interview",
+              "seance"
+            ]
+          },
+          {
+            "field": "finances.worldwide_gross",
+            "status": "not_found",
+            "reason": "Полный мировой итог не установлен: 141 426 USD в Киноафише меньше суммы для России и СНГ в Кинобизнесе сегодня — 156 858 USD.",
+            "source_ids": [
+              "box_office",
+              "kinoafisha"
+            ]
+          }
+        ],
+        "discrepancies": [
+          {
+            "field": "identification.year",
+            "note": "2022 — год производства и фестивальной премьеры; федеральный прокат начался 26 января 2023 года.",
+            "source_ids": [
+              "kp",
+              "premiere",
+              "seance"
+            ]
+          },
+          {
+            "field": "release",
+            "note": "5 декабря 2022 года — фестивальная премьера; 22 декабря — региональный прокат; 26 января 2023 года — федеральный. Последняя дата обозначена Кинопоиском как ре-релиз, а Киноафишей — как мировая премьера.",
+            "source_ids": [
+              "kp",
+              "regional_release",
+              "seance",
+              "kinoafisha"
+            ]
+          },
+          {
+            "field": "details.runtime_minutes",
+            "note": "Кинопоиск и фестиваль «Зеркало»: 124 минуты; Кинобизнес сегодня: 125; Wink: 119. Причина различий и отдельная авторская версия не подтверждены.",
+            "source_ids": [
+              "kp",
+              "festival",
+              "box_office",
+              "wink"
+            ]
+          },
+          {
+            "field": "finances.worldwide_gross",
+            "note": "Кинопоиск: 55 020 USD в России; Кинобизнес сегодня: 10 980 062 RUB / 156 858 USD в России и СНГ; Киноафиша: 141 426 USD как мировой итог. Охват и момент учёта различаются.",
+            "source_ids": [
+              "kp",
+              "box_office",
+              "kinoafisha"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "identification": {
+        "kinopoisk_id": 225011,
+        "kinopoisk_url": "https://www.kinopoisk.ru/film/225011/",
+        "imdb_id": "tt0488905",
+        "imdb_url": "https://www.imdb.com/title/tt0488905/",
+        "title_ru": "Изгнание",
+        "title_original": "Изгнание",
+        "alternative_titles": [
+          "The Banishment",
+          "Izgnanie"
+        ],
+        "year": 2007,
+        "film_type": "игровой полнометражный фильм"
+      },
+      "details": {
+        "countries": [
+          "Россия"
+        ],
+        "languages": [
+          "русский"
+        ],
+        "genres": [
+          "драма"
+        ],
+        "runtime_minutes": 150,
+        "age_ratings": [
+          {
+            "country": "Россия",
+            "rating": "18+",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ],
+        "color": "цветной",
+        "aspect_ratio": "2.35:1"
+      },
+      "creators": {
+        "directors": [
+          "Андрей Звягинцев"
+        ],
+        "screenwriters": [
+          "Олег Негин",
+          "Артём Мелкумян",
+          "Андрей Звягинцев"
+        ],
+        "producers": [
+          "Дмитрий Лесневский"
+        ],
+        "cinematographers": [
+          "Михаил Кричман"
+        ],
+        "composers": [
+          "Андрей Дергачёв",
+          "Арво Пярт"
+        ],
+        "editors": [
+          "Анна Масс"
+        ],
+        "production_companies": [
+          "REN Film"
+        ],
+        "source_material": {
+          "title": "Смешное дело (The Laughing Matter)",
+          "author": "Уильям Сароян",
+          "form": "роман",
+          "year": 1953,
+          "source_ids": [
+            "catalog"
+          ]
+        },
+        "credit_notes": "Андрей Дергачёв — оригинальная музыка; Арво Пярт — использованные произведения."
+      },
+      "cast": [
+        {
+          "name_ru": "Константин Лавроненко",
+          "name_original": "Konstantin Lavronenko",
+          "role": "Алекс",
+          "participation_type": "актёр",
+          "source_ids": [
+            "primary",
+            "imdb"
+          ]
+        },
+        {
+          "name_ru": "Мария Бонневи",
+          "name_original": "Maria Bonnevie",
+          "role": "Вера",
+          "participation_type": "актёр",
+          "source_ids": [
+            "primary",
+            "imdb"
+          ]
+        },
+        {
+          "name_ru": "Александр Балуев",
+          "name_original": "Aleksandr Baluev",
+          "role": "Марк",
+          "participation_type": "актёр",
+          "source_ids": [
+            "primary",
+            "imdb"
+          ]
+        },
+        {
+          "name_ru": "Дмитрий Ульянов",
+          "name_original": "Dmitriy Ulyanov",
+          "role": "Роберт",
+          "participation_type": "актёр",
+          "source_ids": [
+            "primary",
+            "imdb"
+          ]
+        },
+        {
+          "name_ru": "Виталий Кищенко",
+          "name_original": "Vitaliy Kishchenko",
+          "role": "Герман",
+          "participation_type": "актёр",
+          "source_ids": [
+            "primary",
+            "imdb"
+          ]
+        }
+      ],
+      "content": {
+        "logline": "Поездка семьи в загородный дом превращается в испытание близости, когда признание жены разрушает уверенность мужа в привычной жизни.",
+        "synopsis": "Алекс, Вера и двое детей уезжают из города в старый семейный дом среди тихих полей. Просторный пейзаж обещает передышку, однако напряжение, накопившееся между супругами, следует за ними. Вера пытается сообщить мужу нечто, что меняет его представление об их отношениях. Алекс ищет ясное объяснение и способ действовать, но разговоры всё чаще уступают место молчанию, догадкам и советам других людей. Рядом остаются дети, родственники и знакомые, чьё присутствие подчёркивает разрыв между внешней повседневностью и внутренним кризисом семьи. Фильм разворачивается медленно, внимательно следя за паузами, жестами и расстоянием между персонажами. Его интрига строится не столько на поиске виновного, сколько на трудности услышать близкого человека, когда страх и уверенность в собственной правоте начинают определять каждое решение.",
+        "themes": [
+          "отчуждение в семье",
+          "невозможность диалога",
+          "вина и ответственность",
+          "вера и сомнение"
+        ],
+        "mood": "Созерцательное, тревожное и скорбное; длительные паузы усиливают чувство надвигающейся беды.",
+        "visual_style": "Широкий кадр, длинные планы, приглушённая палитра и тщательно выстроенные сельские пространства; лица и фигуры часто разделены архитектурой и пустотой."
+      },
+      "context": {
+        "text": "Вторая полнометражная работа Андрея Звягинцева следует за «Возвращением» и свободно обращается к роману Уильяма Сарояна «Смешное дело». Сценарий переносит семейный конфликт в условное пространство без подчёркнутой бытовой привязки к одной стране. Съёмочная география включала Россию, Молдову, Францию и Бельгию. На Каннском фестивале 2007 года Константин Лавроненко получил приз за лучшую мужскую роль. Редакционная интерпретация: пейзаж и религиозные ассоциации расширяют камерную историю до притчи, но не дают героям простых ответов. Работа Михаила Кричмана и сочетание музыки Андрея Дергачёва с произведениями Арво Пярта помогают воспринимать молчание как самостоятельный драматический материал, а семейную близость — как требующий постоянного усилия диалог.",
+        "facts": [
+          {
+            "text": "Литературной отправной точкой стал роман Уильяма Сарояна The Laughing Matter.",
+            "source_ids": [
+              "catalog"
+            ]
+          },
+          {
+            "text": "Константин Лавроненко получил каннский приз за мужскую роль в 2007 году.",
+            "source_ids": [
+              "primary"
+            ]
+          },
+          {
+            "text": "Каннская карточка фиксирует длительность 150 минут и производственную компанию REN Film.",
+            "source_ids": [
+              "primary"
+            ]
+          }
+        ]
+      },
+      "release": {
+        "world_premiere": {
+          "date": "18052007",
+          "year": 2007,
+          "event": "Каннский кинофестиваль",
+          "release_type": "festival_premiere",
+          "source_ids": [
+            "kp",
+            "catalog"
+          ]
+        },
+        "russian_premiere": {
+          "date": "04102007",
+          "year": 2007,
+          "event": "Российский кинопрокат",
+          "release_type": "theatrical_release",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "additional_releases": []
+      },
+      "recognition": {
+        "awards": [
+          {
+            "year": 2007,
+            "event": "Каннский кинофестиваль",
+            "category": "Лучшая мужская роль",
+            "recipient": "Константин Лавроненко",
+            "result": "win",
+            "source_ids": [
+              "primary"
+            ]
+          }
+        ]
+      },
+      "finances": {
+        "budget": {
+          "amount": 4500000,
+          "currency": "USD",
+          "estimated": true,
+          "source_ids": [
+            "kp",
+            "imdb"
+          ]
+        },
+        "worldwide_gross": {
+          "amount": 641101,
+          "currency": "USD",
+          "estimated": false,
+          "source_ids": [
+            "kp",
+            "imdb"
+          ],
+          "coverage_note": "Полнота учёта стран и повторных выпусков не установлена."
+        }
+      },
+      "ratings": {
+        "kinopoisk": {
+          "value": 7.3,
+          "scale": 10,
+          "votes": 35797,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "imdb": {
+          "value": 7.5,
+          "scale": 10,
+          "votes": 9700,
+          "votes_approximate": true,
+          "checked_on": "24092026",
+          "source_ids": [
+            "imdb"
+          ]
+        }
+      },
+      "links": {
+        "official_trailer": {
+          "url": "https://start.ru/watch/izgnanie/trailers/79292",
+          "link_type": "trailer_page",
+          "language": "русский",
+          "source_ids": [
+            "trailer"
+          ]
+        }
+      },
+      "poster": {
+        "path": "posters/225011.jpg",
+        "source_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/830321e3-bd61-4412-85f3-b5d3e7e11aa0/orig",
+        "source_page": "https://www.kinopoisk.ru/film/225011/",
+        "language": "ru",
+        "format": "jpeg",
+        "width": 800,
+        "height": 1200,
+        "bytes": 275510,
+        "sha256": "406660b89b3797fd92a80d1c9b6f00a0a85cbd80a7ff518ae1dd94783fb58797"
+      },
+      "sources": [
+        {
+          "id": "kp",
+          "url": "https://www.kinopoisk.ru/film/225011/",
+          "title": "Кинопоиск: карточка фильма",
+          "sections": [
+            "identification",
+            "details",
+            "creators",
+            "release",
+            "recognition",
+            "finances",
+            "ratings",
+            "poster"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "imdb",
+          "url": "https://www.imdb.com/title/tt0488905/",
+          "title": "IMDb: карточка фильма",
+          "sections": [
+            "identification",
+            "cast",
+            "details",
+            "ratings",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "primary",
+          "url": "https://www.festival-cannes.com/en/f/izgnanie/",
+          "title": "Каннский фестиваль: Izgnanie, титры и награда",
+          "sections": [
+            "details",
+            "creators",
+            "cast",
+            "content",
+            "context",
+            "links"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "catalog",
+          "url": "https://en.wikipedia.org/wiki/The_Banishment",
+          "title": "Wikipedia: сводная фильмография и ссылки на первоисточники",
+          "sections": [
+            "creators",
+            "cast",
+            "context",
+            "release",
+            "recognition",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "trailer",
+          "url": "https://start.ru/watch/izgnanie/trailers/79292",
+          "title": "START: официальный трейлер Изгнания",
+          "sections": [
+            "links"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "afisha",
+          "url": "https://www.afisha.ru/movie/izgnanie-180233/",
+          "title": "Афиша: альтернативные сведения о премьере",
+          "sections": [
+            "release",
+            "details"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "technical",
+          "url": "https://www.imdb.com/title/tt0488905/technical/",
+          "title": "IMDb: технические параметры и варианты длительности",
+          "sections": [
+            "details"
+          ],
+          "accessed_on": "24092026"
+        }
+      ],
+      "completeness": {
+        "missing": [],
+        "discrepancies": [
+          {
+            "field": "details.runtime_minutes",
+            "note": "Канны и Кинопоиск: 150 минут; IMDb: 157 минут и фестивальная версия 150 минут.",
+            "source_ids": [
+              "primary",
+              "kp",
+              "technical"
+            ]
+          },
+          {
+            "field": "release.russian_premiere",
+            "note": "Российский выпуск: Кинопоиск — 4 октября 2007 года, сводный каталог — 2 октября, Афиша — 1 июня. Ранний фестивальный или закрытый показ не подтверждён.",
+            "source_ids": [
+              "kp",
+              "catalog",
+              "afisha"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "identification": {
+        "kinopoisk_id": 1259195,
+        "kinopoisk_url": "https://www.kinopoisk.ru/film/1259195/",
+        "imdb_id": "tt10045136",
+        "imdb_url": "https://www.imdb.com/title/tt10045136/",
+        "title_ru": "Война искусств",
+        "title_original": "War of Art",
+        "alternative_titles": [],
+        "year": 2019,
+        "film_type": "документальный полнометражный фильм"
+      },
+      "details": {
+        "countries": [
+          "Норвегия",
+          "Германия"
+        ],
+        "languages": [
+          "английский",
+          "немецкий",
+          "корейский"
+        ],
+        "genres": [
+          "документальный",
+          "искусство"
+        ],
+        "runtime_minutes": 102,
+        "age_ratings": [
+          {
+            "country": "Россия",
+            "rating": "18+",
+            "source_ids": [
+              "afisha"
+            ]
+          }
+        ],
+        "color": "цветной",
+        "aspect_ratio": "1.78:1"
+      },
+      "creators": {
+        "directors": [
+          "Томми Гулликсен"
+        ],
+        "screenwriters": [
+          "Томми Гулликсен"
+        ],
+        "producers": [
+          "Бенедикте Даниэльсен",
+          "Эйрин О. Хёгтвейт",
+          "Андреас Гутцайт",
+          "Линн Аронсен"
+        ],
+        "cinematographers": [
+          "Свен Эрлинг Бруслетто"
+        ],
+        "composers": [
+          "Хьетиль Рёст Нильсен",
+          "Ник Новак",
+          "Такуми Мотокава",
+          "Франк Цербан"
+        ],
+        "editors": [
+          "Уве Климмек"
+        ],
+        "production_companies": [
+          "Norsk Fjernsyn AS",
+          "Story House Productions"
+        ],
+        "source_material": null
+      },
+      "cast": [
+        {
+          "name_ru": "Мортен Тровик",
+          "name_original": "Morten Traavik",
+          "role": "участник, художник и организатор культурного обмена",
+          "participation_type": "документальный участник",
+          "source_ids": [
+            "primary",
+            "imdb",
+            "beat"
+          ]
+        },
+        {
+          "name_ru": "Хенрик Плахт",
+          "name_original": "Henrik Placht",
+          "role": "участник, художник",
+          "participation_type": "документальный участник",
+          "source_ids": [
+            "primary",
+            "imdb",
+            "beat"
+          ]
+        },
+        {
+          "name_ru": "Ник Новак",
+          "name_original": "Nik Nowak",
+          "role": "участник, художник, работающий со звуком",
+          "participation_type": "документальный участник",
+          "source_ids": [
+            "primary",
+            "imdb",
+            "beat"
+          ]
+        },
+        {
+          "name_ru": "Кэти Бойд",
+          "name_original": "Cathie Boyd",
+          "role": "участница, театральный режиссёр",
+          "participation_type": "документальный участник",
+          "source_ids": [
+            "primary",
+            "imdb",
+            "beat"
+          ]
+        },
+        {
+          "name_ru": "Квентин Ши",
+          "name_original": "Quentin Shih",
+          "role": "участник, фотограф и художник",
+          "participation_type": "документальный участник",
+          "source_ids": [
+            "primary",
+            "imdb",
+            "beat"
+          ]
+        }
+      ],
+      "content": {
+        "logline": "Художники приезжают в Северную Корею ради культурного обмена и сталкиваются с несовпадающими представлениями об искусстве и свободе.",
+        "synopsis": "Группа международных художников отправляется в Пхеньян по инициативе Мортена Тровика. Участники рассчитывают познакомиться с северокорейскими коллегами, обменяться опытом и создать пространство для совместной работы. Но уже первые встречи обнаруживают, насколько по-разному стороны понимают назначение искусства, роль автора и допустимые способы выражения. Разговоры о красоте, технике и личном опыте постоянно затрагивают вопросы идеологии, доверия и культурных границ. Камера следует за гостями во время поездки, фиксируя профессиональное любопытство, неловкость, споры и попытки найти общий язык. Вместо готовой истории о взаимопонимании возникает наблюдение за самим процессом контакта. Каждый участник приносит собственные ожидания и привычные оценки, которые встреча заставляет проверять. Фильм предлагает смотреть на культурный обмен как на трудную практику, где искренний интерес соседствует с ограничениями, недоразумениями и неравенством возможностей.",
+        "themes": [
+          "свобода искусства",
+          "культурный обмен",
+          "идеология",
+          "границы взаимопонимания"
+        ],
+        "mood": "Любопытное, ироничное и напряжённое; комизм недоразумений соседствует с дискомфортом.",
+        "visual_style": "Документальное наблюдение за встречами и разговорами, контраст официальных пространств с рабочими ситуациями; визуальный материал показывает условия контакта, а не только произведения искусства."
+      },
+      "context": {
+        "text": "Норвежский режиссёр Томми Гулликсен снимает международный художественный обмен, организованный Мортеном Тровиком в Северной Корее. Картина создана как норвежско-германская копродукция; её российская фестивальная история связана с Beat Film Festival. Предмет исследования — не обзор северокорейского искусства вообще, а конкретная встреча художников с различным опытом и разными институциональными ограничениями. Редакционная интерпретация: документальный интерес возникает там, где привычные представления участников перестают работать. Фильм позволяет обсуждать не только государственное регулирование культуры, но и ожидания приезжих, стремящихся увидеть в собеседниках подтверждение собственных идей. Для описания важно сохранять статус реальных участников и не превращать их в вымышленных персонажей или условных представителей целых стран.",
+        "facts": [
+          {
+            "text": "Режиссёр фильма — Томми Гулликсен; Мортен Тровик выступает участником и организатором обмена.",
+            "source_ids": [
+              "primary",
+              "beat"
+            ]
+          },
+          {
+            "text": "Полнометражная картина является копродукцией Норвегии и Германии.",
+            "source_ids": [
+              "primary"
+            ]
+          },
+          {
+            "text": "Фильм победил в норвежском документальном конкурсе HUMAN в 2019 году.",
+            "source_ids": [
+              "human"
+            ]
+          }
+        ]
+      },
+      "release": {
+        "world_premiere": {
+          "date": "28022019",
+          "year": 2019,
+          "event": "Норвегия: первый зарегистрированный показ",
+          "release_type": "documented_first_release",
+          "source_ids": [
+            "nb"
+          ]
+        },
+        "russian_premiere": {
+          "date": null,
+          "year": 2019,
+          "event": "Beat Film Festival, Россия",
+          "release_type": "festival_premiere",
+          "source_ids": [
+            "beat"
+          ]
+        },
+        "additional_releases": []
+      },
+      "recognition": {
+        "awards": [
+          {
+            "year": 2019,
+            "event": "HUMAN International Documentary Film Festival",
+            "category": "Норвежский документальный конкурс",
+            "recipient": "War of Art / Томми Гулликсен",
+            "result": "win",
+            "source_ids": [
+              "human"
+            ]
+          }
+        ]
+      },
+      "finances": {
+        "budget": {
+          "amount": 6003670,
+          "currency": "NOK",
+          "estimated": true,
+          "source_ids": [
+            "imdb"
+          ]
+        },
+        "worldwide_gross": null
+      },
+      "ratings": {
+        "kinopoisk": {
+          "value": 7.4,
+          "scale": 10,
+          "votes": 1139,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp_list"
+          ]
+        },
+        "imdb": {
+          "value": 7.0,
+          "scale": 10,
+          "votes": 135,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "imdb"
+          ]
+        }
+      },
+      "links": {
+        "official_trailer": {
+          "url": "https://www.filmportal.de/video/war-of-art-2019",
+          "link_type": "trailer_page",
+          "language": "Оригинальная звуковая дорожка / субтитры по странице",
+          "source_ids": [
+            "trailer"
+          ]
+        }
+      },
+      "poster": {
+        "path": "posters/1259195.jpg",
+        "source_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/e5cf1618-b5cd-4318-9a78-538dd62f4bd2/orig",
+        "source_page": "https://www.kinopoisk.ru/film/1259195/",
+        "language": "ru",
+        "format": "jpeg",
+        "width": 800,
+        "height": 1200,
+        "bytes": 306617,
+        "sha256": "11f17ffc3fdb9a9d52811ae0fa814834829622c186eee7d24433494202849364"
+      },
+      "sources": [
+        {
+          "id": "kp",
+          "url": "https://www.kinopoisk.ru/film/1259195/",
+          "title": "Кинопоиск: карточка фильма",
+          "sections": [
+            "identification",
+            "details",
+            "creators",
+            "release",
+            "recognition",
+            "finances",
+            "ratings",
+            "poster"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "imdb",
+          "url": "https://www.imdb.com/title/tt10045136/",
+          "title": "IMDb: карточка фильма",
+          "sections": [
+            "identification",
+            "cast",
+            "details",
+            "ratings",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "primary",
+          "url": "https://www.missingfilms.de/index.php/filme/291-war-of-art",
+          "title": "missingFILMs: War of Art, официальный прокатчик и титры",
+          "sections": [
+            "details",
+            "creators",
+            "cast",
+            "content",
+            "context",
+            "links"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "beat",
+          "url": "https://beatfilmfestival.ru/movies/war-of-art",
+          "title": "Beat Film Festival: Война искусств",
+          "sections": [
+            "content",
+            "context",
+            "cast",
+            "release"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "nb",
+          "url": "https://www.nb.no/filmografi/show%3Bjsessionid%3D55E2F0A1C90DDCC5E6218D8884A11B28?id=17364911",
+          "title": "Национальная библиотека Норвегии: фильмография War of Art",
+          "sections": [
+            "release",
+            "creators"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "afisha",
+          "url": "https://www.afisha.ru/movie/voyna-iskusstv-256956/",
+          "title": "Афиша: Война искусств",
+          "sections": [
+            "details",
+            "release"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "kp_list",
+          "url": "https://www.kinopoisk.ru/lists/movies/year--2019/?b=films&b=high_rated&page=7",
+          "title": "Кинопоиск: список фильмов 2019 года с рейтингом Войны искусств",
+          "sections": [
+            "ratings"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "tv",
+          "url": "https://www.primevideo.com/region/na/detail/0HAQW10I7D9WJFCWES6O847P96",
+          "title": "Prime Video: телевизионный вариант War of Art",
+          "sections": [
+            "details"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "human",
+          "url": "https://mediadesk.no/attachments/a4cbe48d7b19e8d86211c327ac77da201d6d7ec6/54-20190607054019992486.pdf",
+          "title": "Creative Europe MEDIA Norway: фестивальный бюллетень, награда HUMAN",
+          "sections": [
+            "recognition"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "trailer",
+          "url": "https://www.filmportal.de/video/war-of-art-2019",
+          "title": "filmportal.de: официальный трейлер missingFILMs",
+          "sections": [
+            "links"
+          ],
+          "accessed_on": "24092026"
+        }
+      ],
+      "completeness": {
+        "missing": [
+          {
+            "field": "release.russian_premiere.date",
+            "status": "not_found",
+            "reason": "Подтверждён Beat Film Festival 2019 года; дата первого российского сеанса не установлена.",
+            "source_ids": [
+              "beat"
+            ]
+          },
+          {
+            "field": "finances.worldwide_gross",
+            "status": "not_found",
+            "reason": "Мировые сборы не найдены в открытых источниках.",
+            "source_ids": [
+              "imdb",
+              "primary"
+            ]
+          },
+          {
+            "field": "creators.source_material",
+            "status": "not_applicable",
+            "reason": "Документальный фильм; литературная адаптация неприменима.",
+            "source_ids": [
+              "primary",
+              "kp"
+            ]
+          }
+        ],
+        "discrepancies": [
+          {
+            "field": "details.runtime_minutes",
+            "note": "Полнометражная версия — 102 минуты; телевизионная версия в каталоге Prime Video — 52 минуты.",
+            "source_ids": [
+              "primary",
+              "tv"
+            ]
+          },
+          {
+            "field": "release.world_premiere",
+            "note": "Норвежская фильмография: 28 февраля 2019 года; Афиша: 27 марта 2019 года. Последняя дата относится к более поздней фестивальной истории.",
+            "source_ids": [
+              "nb",
+              "afisha"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "identification": {
+        "kinopoisk_id": 1347315,
+        "kinopoisk_url": "https://www.kinopoisk.ru/film/1347315/",
+        "imdb_id": "tt9355194",
+        "imdb_url": "https://www.imdb.com/title/tt9355194/",
+        "title_ru": "Книготорговцы",
+        "title_original": "The Booksellers",
+        "alternative_titles": [],
+        "year": 2019,
+        "film_type": "документальный полнометражный фильм"
+      },
+      "details": {
+        "countries": [
+          "США"
+        ],
+        "languages": [
+          "английский"
+        ],
+        "genres": [
+          "документальный",
+          "культура"
+        ],
+        "runtime_minutes": 99,
+        "age_ratings": [
+          {
+            "country": "Россия",
+            "rating": "18+",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ],
+        "color": "цветной",
+        "aspect_ratio": "1.78:1"
+      },
+      "creators": {
+        "directors": [
+          "Д. У. Янг"
+        ],
+        "screenwriters": null,
+        "producers": [
+          "Д. У. Янг",
+          "Дэн Уэкслер",
+          "Джудит Мизрахи"
+        ],
+        "cinematographers": [
+          "Питер Болте"
+        ],
+        "composers": [
+          "Дэвид Ульман"
+        ],
+        "editors": [
+          "Д. У. Янг"
+        ],
+        "production_companies": [
+          "Blackletter Films"
+        ],
+        "source_material": null,
+        "credit_notes": "Паркер Поузи — исполнительный продюсер и рассказчица."
+      },
+      "cast": [
+        {
+          "name_ru": "Паркер Поузи",
+          "name_original": "Parker Posey",
+          "role": "закадровая рассказчица",
+          "participation_type": "документальный рассказчик",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Фрэн Лебовиц",
+          "name_original": "Fran Lebowitz",
+          "role": "участница, писательница и эссеистка",
+          "participation_type": "документальный участник",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Гей Тализ",
+          "name_original": "Gay Talese",
+          "role": "участник, писатель и журналист",
+          "participation_type": "документальный участник",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Адина Коэн",
+          "name_original": "Adina Cohen",
+          "role": "участница, совладелица Argosy Book Store",
+          "participation_type": "документальный участник",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        },
+        {
+          "name_ru": "Нэнси Басс Уайден",
+          "name_original": "Nancy Bass Wyden",
+          "role": "участница, владелица Strand Book Store",
+          "participation_type": "документальный участник",
+          "source_ids": [
+            "imdb",
+            "catalog"
+          ]
+        }
+      ],
+      "content": {
+        "logline": "Нью-йоркские букинисты, коллекционеры и писатели рассказывают, почему редкая книга остаётся чем-то большим, чем товар или носитель текста.",
+        "synopsis": "За витринами книжных магазинов Нью-Йорка существует особый мир людей, которые ищут редкие издания, собирают архивы и узнают историю книги по следам её прежних владельцев. Режиссёр Д. У. Янг знакомится с букинистами, коллекционерами, аукционистами и писателями, для которых бумажный экземпляр обладает собственной биографией. Их рассказы ведут от семейных магазинов и тесных складов к крупным ярмаркам и неожиданным находкам. Одни собеседники вспоминают исчезающие традиции торговли, другие объясняют, как интернет и новое поколение собирателей меняют профессию. Разговор постепенно выходит за пределы редкостей и высоких цен: кто определяет культурную ценность, какие истории достойны сохранения и кому доступно коллекционирование? Фильм соединяет удовольствие от книжного изобилия с вниманием к повседневной работе людей, поддерживающих жизнь этой городской среды.",
+        "themes": [
+          "книга как культурный объект",
+          "сохранение памяти",
+          "коллекционирование",
+          "смена поколений"
+        ],
+        "mood": "Тёплое, любознательное и разговорное; ностальгия сочетается с интересом к будущему.",
+        "visual_style": "Интервью и наблюдения в магазинах, архивах и на ярмарках; крупные планы переплётов и заполненные книгами пространства подчёркивают материальность предмета."
+      },
+      "context": {
+        "text": "Д. У. Янг обращается к нью-йоркской торговле редкими книгами как к живой профессиональной среде. Паркер Поузи участвует в картине как рассказчица и исполнительный продюсер. После премьеры на Нью-Йоркском кинофестивале в 2019 году фильм вышел в американский прокат в 2020-м; в России его показывали в программе Beat. Редакционная интерпретация: интерес картины не сводится к ностальгии по магазинам до интернета. Герои обсуждают, как меняются покупатели, каналы поиска и сами представления о достойном коллекции материале. Через частные истории становится виден вопрос культурной памяти: сохранность книг зависит не только от библиотек, но и от личной увлечённости, рынка, семейной преемственности и труда небольших независимых предприятий.",
+        "facts": [
+          {
+            "text": "Д. У. Янг выступил режиссёром, монтажёром и одним из продюсеров картины.",
+            "source_ids": [
+              "catalog",
+              "selection"
+            ]
+          },
+          {
+            "text": "Паркер Поузи — рассказчица и исполнительный продюсер фильма.",
+            "source_ids": [
+              "primary",
+              "official"
+            ]
+          },
+          {
+            "text": "Первый фестивальный показ состоялся на Нью-Йоркском кинофестивале в 2019 году.",
+            "source_ids": [
+              "catalog",
+              "selection"
+            ]
+          }
+        ]
+      },
+      "release": {
+        "world_premiere": {
+          "date": "07102019",
+          "year": 2019,
+          "event": "Нью-Йоркский кинофестиваль",
+          "release_type": "festival_premiere",
+          "source_ids": [
+            "catalog"
+          ]
+        },
+        "russian_premiere": {
+          "date": "02082020",
+          "year": 2020,
+          "event": "Российская премьера в программе Beat Film Festival, показ с обсуждением",
+          "release_type": "festival_premiere",
+          "source_ids": [
+            "ru_premiere"
+          ]
+        },
+        "additional_releases": []
+      },
+      "recognition": {
+        "awards": null
+      },
+      "finances": {
+        "budget": null,
+        "worldwide_gross": {
+          "amount": 177306,
+          "currency": "USD",
+          "estimated": false,
+          "source_ids": [
+            "imdb"
+          ],
+          "coverage_note": "Полнота учёта стран и повторных выпусков не установлена."
+        }
+      },
+      "ratings": {
+        "kinopoisk": {
+          "value": 7.6,
+          "scale": 10,
+          "votes": 1873,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "imdb": {
+          "value": 6.9,
+          "scale": 10,
+          "votes": 2300,
+          "votes_approximate": true,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        }
+      },
+      "links": {
+        "official_trailer": {
+          "url": "https://greenwichentertainment.com/film/the-booksellers/",
+          "link_type": "trailer_page",
+          "language": "Оригинальная звуковая дорожка / субтитры по странице",
+          "source_ids": [
+            "primary"
+          ]
+        }
+      },
+      "poster": {
+        "path": "posters/1347315.jpg",
+        "source_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1600647/df6ae5ab-143d-4030-88ba-f70cbbc70cf1/orig",
+        "source_page": "https://www.kinopoisk.ru/film/1347315/",
+        "language": "ru",
+        "format": "jpeg",
+        "width": 800,
+        "height": 1200,
+        "bytes": 389610,
+        "sha256": "3b3011fd086eaacf29166e4001df015c959017d12419be772ff9dc2b5702ce64"
+      },
+      "sources": [
+        {
+          "id": "kp",
+          "url": "https://www.kinopoisk.ru/film/1347315/",
+          "title": "Кинопоиск: карточка фильма",
+          "sections": [
+            "identification",
+            "details",
+            "creators",
+            "release",
+            "recognition",
+            "finances",
+            "ratings",
+            "poster"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "imdb",
+          "url": "https://www.imdb.com/title/tt9355194/",
+          "title": "IMDb: карточка фильма",
+          "sections": [
+            "identification",
+            "cast",
+            "details",
+            "ratings",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "primary",
+          "url": "https://greenwichentertainment.com/film/the-booksellers/",
+          "title": "Greenwich Entertainment: официальный прокатчик The Booksellers",
+          "sections": [
+            "details",
+            "creators",
+            "cast",
+            "content",
+            "context",
+            "links"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "catalog",
+          "url": "https://en.wikipedia.org/wiki/The_Booksellers",
+          "title": "Wikipedia: сводная фильмография и ссылки на первоисточники",
+          "sections": [
+            "creators",
+            "cast",
+            "context",
+            "release",
+            "recognition",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "official",
+          "url": "https://www.booksellersmovie.com/",
+          "title": "The Booksellers: официальный сайт",
+          "sections": [
+            "creators",
+            "cast",
+            "context",
+            "links"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "ru_premiere",
+          "url": "https://www.m24.ru/amp/news/Moskva-onlajn/30072020/127227",
+          "title": "Москва 24: премьера и обсуждение Книготорговцев 2 августа 2020 года",
+          "sections": [
+            "release"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "ru_festival",
+          "url": "https://yeltsin.ru/affair/knigotorgovcy-beat-weekend-2020/",
+          "title": "Ельцин Центр: Книготорговцы, Beat Weekend 2020",
+          "sections": [
+            "details",
+            "content",
+            "context"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "technical",
+          "url": "https://www.imdb.com/title/tt9355194/technical/",
+          "title": "IMDb: технические параметры The Booksellers",
+          "sections": [
+            "details"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "selection",
+          "url": "https://kinema.com/films/the-booksellers-qo0-ym",
+          "title": "Kinema / Greenwich Entertainment: фестивальный отбор и титры",
+          "sections": [
+            "recognition",
+            "creators"
+          ],
+          "accessed_on": "24092026"
+        }
+      ],
+      "completeness": {
+        "missing": [
+          {
+            "field": "creators.screenwriters",
+            "status": "not_found",
+            "reason": "Отдельный сценарный кредит не установлен.",
+            "source_ids": [
+              "primary",
+              "official",
+              "catalog"
+            ]
+          },
+          {
+            "field": "recognition.awards",
+            "status": "not_found",
+            "reason": "Подтверждён отбор NYFF 2019; конкурсные награды и номинации фильма не установлены.",
+            "source_ids": [
+              "primary",
+              "selection"
+            ]
+          },
+          {
+            "field": "finances.budget",
+            "status": "not_found",
+            "reason": "Бюджет не найден в открытых источниках.",
+            "source_ids": [
+              "primary",
+              "imdb",
+              "catalog"
+            ]
+          },
+          {
+            "field": "creators.source_material",
+            "status": "not_applicable",
+            "reason": "Документальный фильм; литературная адаптация неприменима.",
+            "source_ids": [
+              "primary",
+              "kp"
+            ]
+          }
+        ],
+        "discrepancies": [
+          {
+            "field": "identification.year",
+            "note": "2019 — год фестивальной премьеры; 2020 — год широкого выпуска.",
+            "source_ids": [
+              "catalog",
+              "selection"
+            ]
+          },
+          {
+            "field": "finances.worldwide_gross",
+            "note": "Кинопоиск: 153 460 USD; IMDb: 177 306 USD. Причина различия не установлена.",
+            "source_ids": [
+              "kp",
+              "imdb"
+            ]
+          },
+          {
+            "field": "release.russian_premiere",
+            "note": "2 августа 2020 года — российская фестивальная премьера; начало широкого проката не установлено.",
+            "source_ids": [
+              "ru_premiere"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "identification": {
+        "kinopoisk_id": 677566,
+        "kinopoisk_url": "https://www.kinopoisk.ru/film/677566/",
+        "imdb_id": "tt2358891",
+        "imdb_url": "https://www.imdb.com/title/tt2358891/",
+        "title_ru": "Великая красота",
+        "title_original": "La grande bellezza",
+        "alternative_titles": [
+          "The Great Beauty"
+        ],
+        "year": 2013,
+        "film_type": "игровой полнометражный фильм"
+      },
+      "details": {
+        "countries": [
+          "Италия",
+          "Франция"
+        ],
+        "languages": [
+          "итальянский"
+        ],
+        "genres": [
+          "драма",
+          "комедия"
+        ],
+        "runtime_minutes": 141,
+        "age_ratings": [
+          {
+            "country": "Россия",
+            "rating": "18+",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ],
+        "color": "цветной",
+        "aspect_ratio": "2.35:1"
+      },
+      "creators": {
+        "directors": [
+          "Паоло Соррентино"
+        ],
+        "screenwriters": [
+          "Паоло Соррентино",
+          "Умберто Контарелло"
+        ],
+        "producers": [
+          "Никола Джулиано",
+          "Франческа Чима"
+        ],
+        "cinematographers": [
+          "Лука Бигацци"
+        ],
+        "composers": [
+          "Леле Маркителли"
+        ],
+        "editors": [
+          "Кристиано Травальоли"
+        ],
+        "production_companies": [
+          "Indigo Film",
+          "Babe Films",
+          "Medusa Film",
+          "Pathé",
+          "France 2 Cinéma"
+        ],
+        "source_material": null
+      },
+      "cast": [
+        {
+          "name_ru": "Тони Сервилло",
+          "name_original": "Toni Servillo",
+          "role": "Джеп Гамбарделла",
+          "participation_type": "актёр",
+          "source_ids": [
+            "primary",
+            "imdb"
+          ]
+        },
+        {
+          "name_ru": "Карло Вердоне",
+          "name_original": "Carlo Verdone",
+          "role": "Романо",
+          "participation_type": "актёр",
+          "source_ids": [
+            "primary",
+            "imdb"
+          ]
+        },
+        {
+          "name_ru": "Сабрина Ферилли",
+          "name_original": "Sabrina Ferilli",
+          "role": "Рамона",
+          "participation_type": "актёр",
+          "source_ids": [
+            "primary",
+            "imdb"
+          ]
+        },
+        {
+          "name_ru": "Карло Буччироссо",
+          "name_original": "Carlo Buccirosso",
+          "role": "Лелло Кава",
+          "participation_type": "актёр",
+          "source_ids": [
+            "primary",
+            "imdb"
+          ]
+        },
+        {
+          "name_ru": "Яя Форте",
+          "name_original": "Iaia Forte",
+          "role": "Трюмо",
+          "participation_type": "актёр",
+          "source_ids": [
+            "primary",
+            "imdb"
+          ]
+        }
+      ],
+      "content": {
+        "logline": "Римский писатель и светский хроникёр после своего шестидесятипятилетия начинает искать смысл за привычной чередой вечеринок и красивых зрелищ.",
+        "synopsis": "Джеп Гамбарделла давно умеет быть центром римской светской жизни. Когда-то он написал успешную книгу, а теперь работает журналистом, ходит на вечеринки и наблюдает за людьми с безупречной иронией. После шестидесятипятилетия привычный круг развлечений начинает казаться ему одновременно притягательным и утомительным. Разговоры с друзьями, встречи с новыми знакомыми и воспоминания о молодости заставляют Джепа внимательнее смотреть на то, что прежде растворялось в шуме. Он бродит по городу, где дворцы, руины, частные квартиры и ночные террасы существуют рядом с тщеславием, одиночеством и неожиданной нежностью. Фильм следует за этим движением внимания, не превращая его в прямолинейный поиск ответа. Перед героем возникает вопрос, можно ли снова почувствовать полноту жизни, если годами довольствовался ролью остроумного наблюдателя.",
+        "themes": [
+          "старение и память",
+          "красота и пустота",
+          "творческий кризис",
+          "светское общество"
+        ],
+        "mood": "Меланхоличное, чувственное и сатирическое; восторг перед красотой постоянно перемежается усталостью.",
+        "visual_style": "Плавные движения камеры, насыщенный цвет, широкие композиции и выразительный свет; архитектура Рима, лица гостей и ночные пространства складываются в череду зрительных состояний."
+      },
+      "context": {
+        "text": "Паоло Соррентино написал сценарий вместе с Умберто Контарелло и вновь пригласил Тони Сервилло на центральную роль. Картина была представлена в конкурсе Каннского фестиваля в 2013 году, а затем получила «Оскар», «Золотой глобус» и BAFTA как неанглоязычный фильм. Рим здесь не только место действия, но и важнейший элемент экранной формы. Редакционная интерпретация: фильм вступает в диалог с традицией Федерико Феллини, прежде всего с образом светского города в «Сладкой жизни». Однако возраст героя переносит акцент с открытия соблазнов на пересмотр прожитого. Работа Луки Бигацци и музыкальная драматургия соединяют сатиру на культурную элиту с личным размышлением о памяти, внимании и возможности нового творческого импульса.",
+        "facts": [
+          {
+            "text": "Сценарий написали Паоло Соррентино и Умберто Контарелло.",
+            "source_ids": [
+              "primary",
+              "imdb"
+            ]
+          },
+          {
+            "text": "В 2014 году фильм получил «Оскар» за лучший фильм на иностранном языке.",
+            "source_ids": [
+              "kp",
+              "catalog"
+            ]
+          },
+          {
+            "text": "Criterion каталогизирует прокатную версию длительностью 142 минуты и форматом изображения 2.35:1.",
+            "source_ids": [
+              "primary"
+            ]
+          }
+        ]
+      },
+      "release": {
+        "world_premiere": {
+          "date": "21052013",
+          "year": 2013,
+          "event": "Каннский кинофестиваль",
+          "release_type": "festival_premiere",
+          "source_ids": [
+            "kp",
+            "catalog"
+          ]
+        },
+        "russian_premiere": {
+          "date": "10102013",
+          "year": 2013,
+          "event": "Российский кинопрокат",
+          "release_type": "theatrical_release",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "additional_releases": [
+          {
+            "date": "13072023",
+            "year": 2023,
+            "event": "Россия: повторный прокат",
+            "release_type": "rerelease",
+            "source_ids": [
+              "kp"
+            ]
+          }
+        ]
+      },
+      "recognition": {
+        "awards": [
+          {
+            "year": 2014,
+            "event": "Оскар",
+            "category": "Лучший фильм на иностранном языке",
+            "recipient": "Италия / Великая красота",
+            "result": "win",
+            "source_ids": [
+              "kp",
+              "catalog"
+            ]
+          },
+          {
+            "year": 2014,
+            "event": "Золотой глобус",
+            "category": "Лучший фильм на иностранном языке",
+            "recipient": "Великая красота",
+            "result": "win",
+            "source_ids": [
+              "kp",
+              "catalog"
+            ]
+          },
+          {
+            "year": 2014,
+            "event": "BAFTA",
+            "category": "Лучший фильм не на английском языке",
+            "recipient": "Великая красота",
+            "result": "win",
+            "source_ids": [
+              "catalog"
+            ]
+          },
+          {
+            "year": 2013,
+            "event": "Европейская киноакадемия",
+            "category": "Лучший европейский фильм",
+            "recipient": "Великая красота",
+            "result": "win",
+            "source_ids": [
+              "catalog"
+            ]
+          },
+          {
+            "year": 2013,
+            "event": "Европейская киноакадемия",
+            "category": "Лучший европейский актёр",
+            "recipient": "Тони Сервилло",
+            "result": "win",
+            "source_ids": [
+              "catalog"
+            ]
+          }
+        ]
+      },
+      "finances": {
+        "budget": {
+          "amount": 9200000,
+          "currency": "EUR",
+          "estimated": true,
+          "source_ids": [
+            "catalog"
+          ]
+        },
+        "worldwide_gross": {
+          "amount": 24582838,
+          "currency": "USD",
+          "estimated": false,
+          "source_ids": [
+            "kp"
+          ],
+          "coverage_note": "Полнота учёта стран и повторных выпусков не установлена."
+        }
+      },
+      "ratings": {
+        "kinopoisk": {
+          "value": 7.8,
+          "scale": 10,
+          "votes": 92508,
+          "votes_approximate": false,
+          "checked_on": "24092026",
+          "source_ids": [
+            "kp"
+          ]
+        },
+        "imdb": {
+          "value": 7.7,
+          "scale": 10,
+          "votes": 107000,
+          "votes_approximate": true,
+          "checked_on": "24092026",
+          "source_ids": [
+            "imdb"
+          ]
+        }
+      },
+      "links": {
+        "official_trailer": {
+          "url": "https://www.criterion.com/films/28604-the-great-beauty",
+          "link_type": "trailer_page",
+          "language": "Оригинальная звуковая дорожка / субтитры по странице",
+          "source_ids": [
+            "primary"
+          ]
+        }
+      },
+      "poster": {
+        "path": "posters/677566.jpg",
+        "source_url": "https://avatars.mds.yandex.net/get-kinopoisk-image/1773646/26840c09-0697-454f-abd5-1ae4c721c7cd/orig",
+        "source_page": "https://www.kinopoisk.ru/film/677566/",
+        "language": "ru",
+        "format": "jpeg",
+        "width": 800,
+        "height": 1200,
+        "bytes": 308847,
+        "sha256": "776b7c5da4d30faa77c059650a9030551cd4e3e0880de68aa563a6c8077ec916"
+      },
+      "sources": [
+        {
+          "id": "kp",
+          "url": "https://www.kinopoisk.ru/film/677566/",
+          "title": "Кинопоиск: карточка фильма",
+          "sections": [
+            "identification",
+            "details",
+            "creators",
+            "release",
+            "recognition",
+            "finances",
+            "ratings",
+            "poster"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "imdb",
+          "url": "https://www.imdb.com/title/tt2358891/",
+          "title": "IMDb: карточка фильма",
+          "sections": [
+            "identification",
+            "cast",
+            "details",
+            "ratings",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "primary",
+          "url": "https://www.criterion.com/films/28604-the-great-beauty",
+          "title": "Criterion: The Great Beauty, титры и технические параметры",
+          "sections": [
+            "details",
+            "creators",
+            "cast",
+            "content",
+            "context",
+            "links"
+          ],
+          "accessed_on": "24092026"
+        },
+        {
+          "id": "catalog",
+          "url": "https://en.wikipedia.org/wiki/The_Great_Beauty",
+          "title": "Wikipedia: сводная фильмография и ссылки на первоисточники",
+          "sections": [
+            "creators",
+            "cast",
+            "context",
+            "release",
+            "recognition",
+            "finances"
+          ],
+          "accessed_on": "24092026"
+        }
+      ],
+      "completeness": {
+        "missing": [
+          {
+            "field": "creators.source_material",
+            "status": "not_found",
+            "reason": "Литературный первоисточник не установлен.",
+            "source_ids": [
+              "primary",
+              "kp"
+            ]
+          }
+        ],
+        "discrepancies": [
+          {
+            "field": "details.runtime_minutes",
+            "note": "Основная прокатная версия: 141 минута по Кинопоиску и IMDb, 142 по Criterion. Расширенная режиссёрская версия — около 173 минут.",
+            "source_ids": [
+              "kp",
+              "imdb",
+              "primary",
+              "catalog"
+            ]
+          },
+          {
+            "field": "finances.worldwide_gross",
+            "note": "Кинопоиск: 24 582 838 USD; сводный каталог: около 29,4 млн USD. Охват стран и повторных выпусков не установлен.",
+            "source_ids": [
+              "kp",
+              "catalog"
+            ]
+          },
+          {
+            "field": "details.languages",
+            "note": "Основной язык — итальянский; присутствуют короткие иноязычные реплики.",
+            "source_ids": [
+              "primary",
+              "imdb"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

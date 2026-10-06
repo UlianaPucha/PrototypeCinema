@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#09090d">
+    <title>Сеанс — фильм на этот вечер</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Onest:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <a class="skip" href="#pick">К подбору фильма</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="wordmark" href="index.html"><span class="wordmark-dot" aria-hidden="true"></span>Сеанс</a>
+        <nav class="site-nav" aria-label="Разделы">
+          <a href="#pick">Подбор</a>
+          <a href="#catalog-section">Каталог</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <section id="pick" class="stage" aria-label="Подбор фильма на вечер" tabindex="-1"></section>
+      <section id="catalog-section" class="catalog" aria-labelledby="catalog-title">
+        <div class="section-head">
+          <h2 id="catalog-title">Каталог</h2>
+          <p id="catalog-count" aria-live="polite"></p>
+        </div>
+        <form class="catalog-tools" id="catalog-tools" role="search" aria-label="Фильтры каталога">
+          <label class="search">
+            <span class="visually-hidden">Поиск</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+            <input type="search" id="f-query" placeholder="Название, режиссёр или актёр" autocomplete="off">
+          </label>
+          <div class="select">
+            <select id="f-time" aria-label="Длительность">
+              <option value="">Любое время</option>
+              <option value="short">До 1 ч 45 мин</option>
+              <option value="medium">До 2 ч 15 мин</option>
+              <option value="long">Дольше 2 ч 15 мин</option>
+            </select>
+          </div>
+          <div class="select">
+            <select id="f-sort" aria-label="Сортировка">
+              <option value="">По умолчанию</option>
+              <option value="rating">По рейтингу</option>
+              <option value="new">Сначала новые</option>
+              <option value="old">Сначала старые</option>
+              <option value="short">Сначала короткие</option>
+            </select>
+          </div>
+          <fieldset class="genre-chips">
+            <legend class="visually-hidden">Жанр</legend>
+            <div class="chip-row" id="f-genres"></div>
+          </fieldset>
+        </form>
+        <div id="catalog" class="catalog-grid"></div>
+      </section>
+    </main>
+    <footer class="site-footer">
+      <p>Десять фильмов из локального каталога. Оценки собраны 24 сентября 2026.</p>
+    </footer>
+    <dialog class="sheet" id="quick-view" aria-labelledby="qv-title"></dialog>
+    <p id="live" class="visually-hidden" aria-live="polite"></p>
+    <noscript>
+      <p class="noscript">Чтобы подобрать фильм, включите JavaScript.</p>
+    </noscript>
+    <script src="js/movies-data.js"></script>
+    <script src="js/common.js"></script>
+    <script src="js/home.js"></script>
+  </body>
+</html>
